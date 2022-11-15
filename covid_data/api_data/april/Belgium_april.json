@@ -1,1 +1,1519 @@
-[]
+[
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-01"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+876",
+          "active": 10374,
+          "critical": 1021,
+          "recovered": 1696,
+          "1M_pop": "1102",
+          "total": 12775
+        },
+        "deaths": {
+          "new": "+192",
+          "1M_pop": null,
+          "total": 705
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T09:15:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-02"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+1189",
+          "active": 11004,
+          "critical": 1088,
+          "recovered": 2132,
+          "1M_pop": "1205",
+          "total": 13964
+        },
+        "deaths": {
+          "new": "+123",
+          "1M_pop": null,
+          "total": 828
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-02",
+        "time": "2020-04-02T09:02:33+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-03"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+1384",
+          "active": 11842,
+          "critical": 1144,
+          "recovered": 2495,
+          "1M_pop": "1324",
+          "total": 15348
+        },
+        "deaths": {
+          "new": "+183",
+          "1M_pop": null,
+          "total": 1011
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-03",
+        "time": "2020-04-03T09:15:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-04"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+1422",
+          "active": 12755,
+          "critical": 1205,
+          "recovered": 2872,
+          "1M_pop": "1447",
+          "total": 16770
+        },
+        "deaths": {
+          "new": "+132",
+          "1M_pop": null,
+          "total": 1143
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-04",
+        "time": "2020-04-04T09:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-05"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 13901,
+          "critical": 1245,
+          "recovered": 3247,
+          "1M_pop": "1590",
+          "total": 18431
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 1283
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 70000
+        },
+        "day": "2020-04-05",
+        "time": "2020-04-05T09:00:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+1661",
+          "active": 13901,
+          "critical": 1245,
+          "recovered": 3247,
+          "1M_pop": "1590",
+          "total": 18431
+        },
+        "deaths": {
+          "new": "+140",
+          "1M_pop": null,
+          "total": 1283
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-05",
+        "time": "2020-04-05T08:15:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-06"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+1260",
+          "active": 14493,
+          "critical": 1261,
+          "recovered": 3751,
+          "1M_pop": "1699",
+          "total": 19691
+        },
+        "deaths": {
+          "new": "+164",
+          "1M_pop": null,
+          "total": 1447
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 70000
+        },
+        "day": "2020-04-06",
+        "time": "2020-04-06T09:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-07"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+1380",
+          "active": 16002,
+          "critical": 1260,
+          "recovered": 4157,
+          "1M_pop": "1915",
+          "total": 22194
+        },
+        "deaths": {
+          "new": "+403",
+          "1M_pop": null,
+          "total": 2035
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 70000
+        },
+        "day": "2020-04-07",
+        "time": "2020-04-07T12:30:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+1123",
+          "active": 15196,
+          "critical": 1257,
+          "recovered": 3986,
+          "1M_pop": "1796",
+          "total": 20814
+        },
+        "deaths": {
+          "new": "+185",
+          "1M_pop": null,
+          "total": 1632
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 70000
+        },
+        "day": "2020-04-07",
+        "time": "2020-04-07T09:00:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-08"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+1209",
+          "active": 16482,
+          "critical": 1276,
+          "recovered": 4681,
+          "1M_pop": "2019",
+          "total": 23403
+        },
+        "deaths": {
+          "new": "+205",
+          "1M_pop": null,
+          "total": 2240
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 80512
+        },
+        "day": "2020-04-08",
+        "time": "2020-04-08T14:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+1380",
+          "active": 16002,
+          "critical": 1260,
+          "recovered": 4157,
+          "1M_pop": "1915",
+          "total": 22194
+        },
+        "deaths": {
+          "new": "+403",
+          "1M_pop": null,
+          "total": 2035
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 80512
+        },
+        "day": "2020-04-08",
+        "time": "2020-04-08T09:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-09"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+1209",
+          "active": 16482,
+          "critical": 1276,
+          "recovered": 4681,
+          "1M_pop": "2019",
+          "total": 23403
+        },
+        "deaths": {
+          "new": "+205",
+          "1M_pop": null,
+          "total": 2240
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 84248
+        },
+        "day": "2020-04-09",
+        "time": "2020-04-09T09:15:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-10"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+1580",
+          "active": 17296,
+          "critical": 1285,
+          "recovered": 5164,
+          "1M_pop": "2156",
+          "total": 24983
+        },
+        "deaths": {
+          "new": "+283",
+          "1M_pop": null,
+          "total": 2523
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 84248
+        },
+        "day": "2020-04-10",
+        "time": "2020-04-10T09:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-11"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+1351",
+          "active": 18686,
+          "critical": 1262,
+          "recovered": 5986,
+          "1M_pop": "2418",
+          "total": 28018
+        },
+        "deaths": {
+          "new": "+327",
+          "1M_pop": null,
+          "total": 3346
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 84248
+        },
+        "day": "2020-04-11",
+        "time": "2020-04-11T09:30:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+1684",
+          "active": 18080,
+          "critical": 1278,
+          "recovered": 5568,
+          "1M_pop": "2301",
+          "total": 26667
+        },
+        "deaths": {
+          "new": "+496",
+          "1M_pop": null,
+          "total": 3019
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 84248
+        },
+        "day": "2020-04-11",
+        "time": "2020-04-11T09:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-12"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+1351",
+          "active": 18686,
+          "critical": 1262,
+          "recovered": 5986,
+          "1M_pop": "2418",
+          "total": 28018
+        },
+        "deaths": {
+          "new": "+327",
+          "1M_pop": null,
+          "total": 3346
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 102151
+        },
+        "day": "2020-04-12",
+        "time": "2020-04-12T09:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-13"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+1629",
+          "active": 19584,
+          "critical": 1223,
+          "recovered": 6463,
+          "1M_pop": "2558",
+          "total": 29647
+        },
+        "deaths": {
+          "new": "+254",
+          "1M_pop": null,
+          "total": 3600
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 102151
+        },
+        "day": "2020-04-13",
+        "time": "2020-04-13T09:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-14"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+942",
+          "active": 19979,
+          "critical": 1234,
+          "recovered": 6707,
+          "1M_pop": "2639",
+          "total": 30589
+        },
+        "deaths": {
+          "new": "+303",
+          "1M_pop": null,
+          "total": 3903
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 102151
+        },
+        "day": "2020-04-14",
+        "time": "2020-04-14T09:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-15"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+530",
+          "active": 20094,
+          "critical": 1223,
+          "recovered": 6868,
+          "1M_pop": "2685",
+          "total": 31119
+        },
+        "deaths": {
+          "new": "+254",
+          "1M_pop": null,
+          "total": 4157
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 102151
+        },
+        "day": "2020-04-15",
+        "time": "2020-04-15T09:02:35+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-16"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+1236",
+          "active": 22390,
+          "critical": 1182,
+          "recovered": 7562,
+          "1M_pop": "3003",
+          "total": 34809
+        },
+        "deaths": {
+          "new": "+417",
+          "1M_pop": null,
+          "total": 4857
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 128132
+        },
+        "day": "2020-04-16",
+        "time": "2020-04-16T13:00:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+2454",
+          "active": 22026,
+          "critical": 1204,
+          "recovered": 7107,
+          "1M_pop": "2897",
+          "total": 33573
+        },
+        "deaths": {
+          "new": "+283",
+          "1M_pop": null,
+          "total": 4440
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 128132
+        },
+        "day": "2020-04-16",
+        "time": "2020-04-16T09:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-17"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+1329",
+          "active": 23014,
+          "critical": 1140,
+          "recovered": 7961,
+          "1M_pop": "3118",
+          "total": 36138
+        },
+        "deaths": {
+          "new": "+306",
+          "1M_pop": null,
+          "total": 5163
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 134303
+        },
+        "day": "2020-04-17",
+        "time": "2020-04-17T11:47:35+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+1236",
+          "active": 22390,
+          "critical": 1182,
+          "recovered": 7562,
+          "1M_pop": "3003",
+          "total": 34809
+        },
+        "deaths": {
+          "new": "+417",
+          "1M_pop": null,
+          "total": 4857
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 134303
+        },
+        "day": "2020-04-17",
+        "time": "2020-04-17T09:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-18"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+1045",
+          "active": 23382,
+          "critical": 1119,
+          "recovered": 8348,
+          "1M_pop": "3208",
+          "total": 37183
+        },
+        "deaths": {
+          "new": "+290",
+          "1M_pop": null,
+          "total": 5453
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 139387
+        },
+        "day": "2020-04-18",
+        "time": "2020-04-18T10:00:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+1329",
+          "active": 23014,
+          "critical": 1140,
+          "recovered": 7961,
+          "1M_pop": "3118",
+          "total": 36138
+        },
+        "deaths": {
+          "new": "+306",
+          "1M_pop": null,
+          "total": 5163
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 139387
+        },
+        "day": "2020-04-18",
+        "time": "2020-04-18T09:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-19"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+1313",
+          "active": 24056,
+          "critical": 1081,
+          "recovered": 8757,
+          "1M_pop": "3322",
+          "total": 38496
+        },
+        "deaths": {
+          "new": "+230",
+          "1M_pop": null,
+          "total": 5683
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 145997
+        },
+        "day": "2020-04-19",
+        "time": "2020-04-19T09:30:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+1045",
+          "active": 23382,
+          "critical": 1119,
+          "recovered": 8348,
+          "1M_pop": "3208",
+          "total": 37183
+        },
+        "deaths": {
+          "new": "+290",
+          "1M_pop": null,
+          "total": 5453
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 145997
+        },
+        "day": "2020-04-19",
+        "time": "2020-04-19T09:15:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-20"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+1487",
+          "active": 25260,
+          "critical": 1071,
+          "recovered": 8895,
+          "1M_pop": "3450",
+          "total": 39983
+        },
+        "deaths": {
+          "new": "+145",
+          "1M_pop": null,
+          "total": 5828
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 153778
+        },
+        "day": "2020-04-20",
+        "time": "2020-04-20T11:30:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+1313",
+          "active": 24056,
+          "critical": 1081,
+          "recovered": 8757,
+          "1M_pop": "3322",
+          "total": 38496
+        },
+        "deaths": {
+          "new": "+230",
+          "1M_pop": null,
+          "total": 5683
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 153778
+        },
+        "day": "2020-04-20",
+        "time": "2020-04-20T09:02:40+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-21"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+973",
+          "active": 25956,
+          "critical": 1079,
+          "recovered": 9002,
+          "1M_pop": "3534",
+          "total": 40956
+        },
+        "deaths": {
+          "new": "+170",
+          "1M_pop": null,
+          "total": 5998
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 161896
+        },
+        "day": "2020-04-21",
+        "time": "2020-04-21T09:30:07+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+1487",
+          "active": 25260,
+          "critical": 1071,
+          "recovered": 8895,
+          "1M_pop": "3450",
+          "total": 39983
+        },
+        "deaths": {
+          "new": "+145",
+          "1M_pop": null,
+          "total": 5828
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 161896
+        },
+        "day": "2020-04-21",
+        "time": "2020-04-21T09:15:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-22"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+973",
+          "active": 25956,
+          "critical": 1079,
+          "recovered": 9002,
+          "1M_pop": "3534",
+          "total": 40956
+        },
+        "deaths": {
+          "new": "+170",
+          "1M_pop": null,
+          "total": 5998
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 167110
+        },
+        "day": "2020-04-22",
+        "time": "2020-04-22T09:30:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-23"
+    },
+    "errors": [],
+    "results": 3,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+908",
+          "active": 26507,
+          "critical": 993,
+          "recovered": 9800,
+          "1M_pop": "3693",
+          "total": 42797
+        },
+        "deaths": {
+          "new": "+228",
+          "1M_pop": null,
+          "total": 6490
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 171400
+        },
+        "day": "2020-04-23",
+        "time": "2020-04-23T12:45:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+908",
+          "active": 27102,
+          "critical": 1020,
+          "recovered": 9433,
+          "1M_pop": "3693",
+          "total": 42797
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 6262
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 171400
+        },
+        "day": "2020-04-23",
+        "time": "2020-04-23T09:15:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+933",
+          "active": 26194,
+          "critical": 1020,
+          "recovered": 9433,
+          "1M_pop": "3614",
+          "total": 41889
+        },
+        "deaths": {
+          "new": "+264",
+          "1M_pop": null,
+          "total": 6262
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 171400
+        },
+        "day": "2020-04-23",
+        "time": "2020-04-23T09:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-24"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+1496",
+          "active": 27492,
+          "critical": 970,
+          "recovered": 10122,
+          "1M_pop": "3822",
+          "total": 44293
+        },
+        "deaths": {
+          "new": "+189",
+          "1M_pop": null,
+          "total": 6679
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 179666
+        },
+        "day": "2020-04-24",
+        "time": "2020-04-24T10:30:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+908",
+          "active": 26507,
+          "critical": 993,
+          "recovered": 9800,
+          "1M_pop": "3693",
+          "total": 42797
+        },
+        "deaths": {
+          "new": "+228",
+          "1M_pop": null,
+          "total": 6490
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 179666
+        },
+        "day": "2020-04-24",
+        "time": "2020-04-24T09:17:34+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-25"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+1496",
+          "active": 27492,
+          "critical": 970,
+          "recovered": 10122,
+          "1M_pop": "3822",
+          "total": 44293
+        },
+        "deaths": {
+          "new": "+189",
+          "1M_pop": null,
+          "total": 6679
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 189067
+        },
+        "day": "2020-04-25",
+        "time": "2020-04-25T09:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-26"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+1032",
+          "active": 27991,
+          "critical": 934,
+          "recovered": 10417,
+          "1M_pop": "3911",
+          "total": 45325
+        },
+        "deaths": {
+          "new": "+238",
+          "1M_pop": null,
+          "total": 6917
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 189067
+        },
+        "day": "2020-04-26",
+        "time": "2020-04-26T09:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-27"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+553",
+          "active": 28602,
+          "critical": 903,
+          "recovered": 10878,
+          "1M_pop": "4028",
+          "total": 46687
+        },
+        "deaths": {
+          "new": "+113",
+          "1M_pop": null,
+          "total": 7207
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 197747
+        },
+        "day": "2020-04-27",
+        "time": "2020-04-27T11:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+809",
+          "active": 28255,
+          "critical": 891,
+          "recovered": 10785,
+          "1M_pop": "3981",
+          "total": 46134
+        },
+        "deaths": {
+          "new": "+177",
+          "1M_pop": null,
+          "total": 7094
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 189067
+        },
+        "day": "2020-04-27",
+        "time": "2020-04-27T09:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-28"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+647",
+          "active": 29060,
+          "critical": 876,
+          "recovered": 10943,
+          "1M_pop": "4084",
+          "total": 47334
+        },
+        "deaths": {
+          "new": "+124",
+          "1M_pop": null,
+          "total": 7331
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 214042
+        },
+        "day": "2020-04-28",
+        "time": "2020-04-28T10:17:34+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+553",
+          "active": 28602,
+          "critical": 903,
+          "recovered": 10878,
+          "1M_pop": "4028",
+          "total": 46687
+        },
+        "deaths": {
+          "new": "+113",
+          "1M_pop": null,
+          "total": 7207
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 214042
+        },
+        "day": "2020-04-28",
+        "time": "2020-04-28T09:32:34+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-29"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+525",
+          "active": 29075,
+          "critical": 797,
+          "recovered": 11283,
+          "1M_pop": "4129",
+          "total": 47859
+        },
+        "deaths": {
+          "new": "+170",
+          "1M_pop": null,
+          "total": 7501
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 220204
+        },
+        "day": "2020-04-29",
+        "time": "2020-04-29T09:45:09+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+647",
+          "active": 29060,
+          "critical": 876,
+          "recovered": 10943,
+          "1M_pop": "4084",
+          "total": 47334
+        },
+        "deaths": {
+          "new": "+124",
+          "1M_pop": null,
+          "total": 7331
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 220204
+        },
+        "day": "2020-04-29",
+        "time": "2020-04-29T09:00:11+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-04-30"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+660",
+          "active": 29349,
+          "critical": 769,
+          "recovered": 11576,
+          "1M_pop": "4186",
+          "total": 48519
+        },
+        "deaths": {
+          "new": "+93",
+          "1M_pop": null,
+          "total": 7594
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 226724
+        },
+        "day": "2020-04-30",
+        "time": "2020-04-30T09:45:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+525",
+          "active": 29075,
+          "critical": 797,
+          "recovered": 11283,
+          "1M_pop": "4129",
+          "total": 47859
+        },
+        "deaths": {
+          "new": "+170",
+          "1M_pop": null,
+          "total": 7501
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 226724
+        },
+        "day": "2020-04-30",
+        "time": "2020-04-30T09:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belgium",
+      "day": "2020-05-01"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+513",
+          "active": 29437,
+          "critical": 740,
+          "recovered": 11892,
+          "1M_pop": "4231",
+          "total": 49032
+        },
+        "deaths": {
+          "new": "+109",
+          "1M_pop": null,
+          "total": 7703
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 237963
+        },
+        "day": "2020-05-01",
+        "time": "2020-05-01T09:15:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Belgium",
+        "population": null,
+        "cases": {
+          "new": "+660",
+          "active": 29349,
+          "critical": 769,
+          "recovered": 11576,
+          "1M_pop": "4186",
+          "total": 48519
+        },
+        "deaths": {
+          "new": "+93",
+          "1M_pop": null,
+          "total": 7594
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 237963
+        },
+        "day": "2020-05-01",
+        "time": "2020-05-01T09:00:04+00:00"
+      }
+    ]
+  }
+]

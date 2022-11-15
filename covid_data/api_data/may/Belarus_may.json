@@ -1,0 +1,1169 @@
+[
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-01"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+846",
+          "active": 11552,
+          "critical": 92,
+          "recovered": 2386,
+          "1M_pop": "1484",
+          "total": 14027
+        },
+        "deaths": {
+          "new": "+5",
+          "1M_pop": null,
+          "total": 89
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 176625
+        },
+        "day": "2020-05-01",
+        "time": "2020-05-01T10:00:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-02"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+890",
+          "active": 11906,
+          "critical": 92,
+          "recovered": 2918,
+          "1M_pop": "1579",
+          "total": 14917
+        },
+        "deaths": {
+          "new": "+4",
+          "1M_pop": null,
+          "total": 93
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 186262
+        },
+        "day": "2020-05-02",
+        "time": "2020-05-02T09:30:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-03"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+911",
+          "active": 12614,
+          "critical": 92,
+          "recovered": 3117,
+          "1M_pop": "1675",
+          "total": 15828
+        },
+        "deaths": {
+          "new": "+4",
+          "1M_pop": null,
+          "total": 97
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 195430
+        },
+        "day": "2020-05-03",
+        "time": "2020-05-03T10:45:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-04"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+877",
+          "active": 13410,
+          "critical": 92,
+          "recovered": 3196,
+          "1M_pop": "1768",
+          "total": 16705
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 99
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 204239
+        },
+        "day": "2020-05-04",
+        "time": "2020-05-04T09:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-05"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+784",
+          "active": 14127,
+          "critical": 92,
+          "recovered": 3259,
+          "1M_pop": "1851",
+          "total": 17489
+        },
+        "deaths": {
+          "new": "+4",
+          "1M_pop": null,
+          "total": 103
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 211369
+        },
+        "day": "2020-05-05",
+        "time": "2020-05-05T13:15:15+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-06"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+861",
+          "active": 14472,
+          "critical": 92,
+          "recovered": 3771,
+          "1M_pop": "1942",
+          "total": 18350
+        },
+        "deaths": {
+          "new": "+4",
+          "1M_pop": null,
+          "total": 107
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 211369
+        },
+        "day": "2020-05-06",
+        "time": "2020-05-06T09:15:03+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-07"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+905",
+          "active": 14755,
+          "critical": 92,
+          "recovered": 4388,
+          "1M_pop": "2038",
+          "total": 19255
+        },
+        "deaths": {
+          "new": "+5",
+          "1M_pop": null,
+          "total": 112
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 220045
+        },
+        "day": "2020-05-07",
+        "time": "2020-05-07T12:15:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-08"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+913",
+          "active": 14985,
+          "critical": 92,
+          "recovered": 5067,
+          "1M_pop": "2134",
+          "total": 20168
+        },
+        "deaths": {
+          "new": "+4",
+          "1M_pop": null,
+          "total": 116
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 229466
+        },
+        "day": "2020-05-08",
+        "time": "2020-05-08T14:15:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-09"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+933",
+          "active": 15496,
+          "critical": 92,
+          "recovered": 5484,
+          "1M_pop": "2233",
+          "total": 21101
+        },
+        "deaths": {
+          "new": "+5",
+          "1M_pop": null,
+          "total": 121
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 240146
+        },
+        "day": "2020-05-09",
+        "time": "2020-05-09T12:15:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-10"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+951",
+          "active": 15876,
+          "critical": 92,
+          "recovered": 6050,
+          "1M_pop": "2334",
+          "total": 22052
+        },
+        "deaths": {
+          "new": "+5",
+          "1M_pop": null,
+          "total": 126
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 251771
+        },
+        "day": "2020-05-10",
+        "time": "2020-05-10T12:00:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-11"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+921",
+          "active": 16436,
+          "critical": 92,
+          "recovered": 6406,
+          "1M_pop": "2431",
+          "total": 22973
+        },
+        "deaths": {
+          "new": "+5",
+          "1M_pop": null,
+          "total": 131
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 263543
+        },
+        "day": "2020-05-11",
+        "time": "2020-05-11T09:30:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-12"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+933",
+          "active": 17240,
+          "critical": 92,
+          "recovered": 6531,
+          "1M_pop": "2530",
+          "total": 23906
+        },
+        "deaths": {
+          "new": "+4",
+          "1M_pop": null,
+          "total": 135
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 274060
+        },
+        "day": "2020-05-12",
+        "time": "2020-05-12T13:15:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-13"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+967",
+          "active": 17757,
+          "critical": 92,
+          "recovered": 6974,
+          "1M_pop": "2632",
+          "total": 24873
+        },
+        "deaths": {
+          "new": "+7",
+          "1M_pop": null,
+          "total": 142
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 284445
+        },
+        "day": "2020-05-13",
+        "time": "2020-05-13T12:30:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-14"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+952",
+          "active": 17968,
+          "critical": 92,
+          "recovered": 7711,
+          "1M_pop": "2733",
+          "total": 25825
+        },
+        "deaths": {
+          "new": "+4",
+          "1M_pop": null,
+          "total": 146
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 296380
+        },
+        "day": "2020-05-14",
+        "time": "2020-05-14T10:30:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-15"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+947",
+          "active": 18453,
+          "critical": 92,
+          "recovered": 8168,
+          "1M_pop": "2833",
+          "total": 26772
+        },
+        "deaths": {
+          "new": "+5",
+          "1M_pop": null,
+          "total": 151
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 308156
+        },
+        "day": "2020-05-15",
+        "time": "2020-05-15T02:15:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-16"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "9449712",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+958",
+          "active": 18767,
+          "critical": 92,
+          "recovered": 8807,
+          "1M_pop": "2934",
+          "total": 27730
+        },
+        "deaths": {
+          "new": "+5",
+          "1M_pop": null,
+          "total": 156
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 321705
+        },
+        "day": "2020-05-16",
+        "time": "2020-05-16T11:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-17"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+951",
+          "active": 19023,
+          "critical": 92,
+          "recovered": 9498,
+          "1M_pop": "3035",
+          "total": 28681
+        },
+        "deaths": {
+          "new": "+4",
+          "1M_pop": null,
+          "total": 160
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 335057
+        },
+        "day": "2020-05-17",
+        "time": "2020-05-17T10:45:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-18"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+969",
+          "active": 19553,
+          "critical": 92,
+          "recovered": 9932,
+          "1M_pop": "3138",
+          "total": 29650
+        },
+        "deaths": {
+          "new": "+5",
+          "1M_pop": null,
+          "total": 165
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 350515
+        },
+        "day": "2020-05-18",
+        "time": "2020-05-18T10:45:06+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-19"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+922",
+          "active": 20271,
+          "critical": 92,
+          "recovered": 10130,
+          "1M_pop": "3235",
+          "total": 30572
+        },
+        "deaths": {
+          "new": "+6",
+          "1M_pop": null,
+          "total": 171
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 364319
+        },
+        "day": "2020-05-19",
+        "time": "2020-05-19T09:30:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-20"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+936",
+          "active": 20713,
+          "critical": 92,
+          "recovered": 10620,
+          "1M_pop": "3334",
+          "total": 31508
+        },
+        "deaths": {
+          "new": "+4",
+          "1M_pop": null,
+          "total": 175
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 375076
+        },
+        "day": "2020-05-20",
+        "time": "2020-05-20T11:45:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-21"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+918",
+          "active": 20832,
+          "critical": 92,
+          "recovered": 11415,
+          "1M_pop": "3431",
+          "total": 32426
+        },
+        "deaths": {
+          "new": "+4",
+          "1M_pop": null,
+          "total": 179
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 387673
+        },
+        "day": "2020-05-21",
+        "time": "2020-05-21T09:30:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-22"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+945",
+          "active": 21129,
+          "critical": 92,
+          "recovered": 12057,
+          "1M_pop": "3531",
+          "total": 33371
+        },
+        "deaths": {
+          "new": "+6",
+          "1M_pop": null,
+          "total": 185
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 403236
+        },
+        "day": "2020-05-22",
+        "time": "2020-05-22T10:00:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-23"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+932",
+          "active": 21280,
+          "critical": 92,
+          "recovered": 12833,
+          "1M_pop": "3630",
+          "total": 34303
+        },
+        "deaths": {
+          "new": "+5",
+          "1M_pop": null,
+          "total": 190
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 419004
+        },
+        "day": "2020-05-23",
+        "time": "2020-05-23T10:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-24"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+941",
+          "active": 21522,
+          "critical": 92,
+          "recovered": 13528,
+          "1M_pop": "3730",
+          "total": 35244
+        },
+        "deaths": {
+          "new": "+4",
+          "1M_pop": null,
+          "total": 194
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 434618
+        },
+        "day": "2020-05-24",
+        "time": "2020-05-24T09:45:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-25"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+954",
+          "active": 21844,
+          "critical": 92,
+          "recovered": 14155,
+          "1M_pop": "3831",
+          "total": 36198
+        },
+        "deaths": {
+          "new": "+5",
+          "1M_pop": null,
+          "total": 199
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 450627
+        },
+        "day": "2020-05-25",
+        "time": "2020-05-25T12:00:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-26"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+946",
+          "active": 22491,
+          "critical": 92,
+          "recovered": 14449,
+          "1M_pop": "3931",
+          "total": 37144
+        },
+        "deaths": {
+          "new": "+5",
+          "1M_pop": null,
+          "total": 204
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 463004
+        },
+        "day": "2020-05-26",
+        "time": "2020-05-26T09:30:03+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-27"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+915",
+          "active": 22765,
+          "critical": 92,
+          "recovered": 15086,
+          "1M_pop": "4028",
+          "total": 38059
+        },
+        "deaths": {
+          "new": "+4",
+          "1M_pop": null,
+          "total": 208
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 472906
+        },
+        "day": "2020-05-27",
+        "time": "2020-05-27T09:30:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-28"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+897",
+          "active": 22819,
+          "critical": 92,
+          "recovered": 15923,
+          "1M_pop": "4123",
+          "total": 38956
+        },
+        "deaths": {
+          "new": "+6",
+          "1M_pop": null,
+          "total": 214
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 485534
+        },
+        "day": "2020-05-28",
+        "time": "2020-05-28T10:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+897",
+          "active": 22819,
+          "critical": 92,
+          "recovered": 15923,
+          "1M_pop": "4122",
+          "total": 38956
+        },
+        "deaths": {
+          "new": "+6",
+          "1M_pop": null,
+          "total": 214
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 485534
+        },
+        "day": "2020-05-28",
+        "time": "2020-05-28T00:00:09+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-29"
+    },
+    "errors": [],
+    "results": 3,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+906",
+          "active": 23150,
+          "critical": 92,
+          "recovered": 17390,
+          "1M_pop": "4314",
+          "total": 40764
+        },
+        "deaths": {
+          "new": "+5",
+          "1M_pop": null,
+          "total": 224
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 512418
+        },
+        "day": "2020-05-29",
+        "time": "2020-05-29T17:45:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 22979,
+          "critical": 92,
+          "recovered": 16660,
+          "1M_pop": "4218",
+          "total": 39858
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 219
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 499249
+        },
+        "day": "2020-05-29",
+        "time": "2020-05-29T11:30:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": "+902",
+          "active": 22979,
+          "critical": 92,
+          "recovered": 16660,
+          "1M_pop": "4218",
+          "total": 39858
+        },
+        "deaths": {
+          "new": "+5",
+          "1M_pop": null,
+          "total": 219
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 499249
+        },
+        "day": "2020-05-29",
+        "time": "2020-05-29T00:15:06+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-30"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-05-31"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 23465,
+          "critical": 92,
+          "recovered": 17964,
+          "1M_pop": "4408",
+          "total": 41658
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 229
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 526559
+        },
+        "day": "2020-05-31",
+        "time": "2020-05-31T12:15:06+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Belarus",
+      "day": "2020-06-01"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Belarus",
+        "population": 9449576,
+        "cases": {
+          "new": "+898",
+          "active": 23807,
+          "critical": 92,
+          "recovered": 18514,
+          "1M_pop": "4503",
+          "total": 42556
+        },
+        "deaths": {
+          "new": "+6",
+          "1M_pop": "25",
+          "total": 235
+        },
+        "tests": {
+          "1M_pop": "57261",
+          "total": 541093
+        },
+        "day": "2020-06-01",
+        "time": "2020-06-01T11:00:05+00:00"
+      }
+    ]
+  }
+]

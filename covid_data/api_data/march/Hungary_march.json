@@ -1,1 +1,765 @@
-[{"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-01"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-02"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-03"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-04"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-05"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-06"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-07"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-08"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-09"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-10"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-11"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-12"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-13"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-14"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-15"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-16"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-17"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-18"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-19"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-20"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-21"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-22"}, "errors": [], "results": 4, "response": [{"continent": "Europe", "country": "Hungary", "population": null, "cases": {"new": "+28", "active": 113, "critical": 6, "recovered": 12, "1M_pop": "14", "total": 131}, "deaths": {"new": "+2", "1M_pop": null, "total": 6}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-22", "time": "2020-03-22T10:45:04+00:00"}, {"continent": "Europe", "country": "Hungary", "population": null, "cases": {"new": "+28", "active": 120, "critical": 6, "recovered": 7, "1M_pop": "14", "total": 131}, "deaths": {"new": null, "1M_pop": null, "total": 4}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-22", "time": "2020-03-22T09:30:06+00:00"}, {"continent": "Europe", "country": "Hungary", "population": null, "cases": {"new": null, "active": 92, "critical": 6, "recovered": 7, "1M_pop": "11", "total": 103}, "deaths": {"new": null, "1M_pop": null, "total": 4}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-22", "time": "2020-03-22T07:45:05+00:00"}, {"continent": "Europe", "country": "Hungary", "population": null, "cases": {"new": "+18", "active": 92, "critical": 6, "recovered": 7, "1M_pop": "11", "total": 103}, "deaths": {"new": null, "1M_pop": null, "total": 4}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-22", "time": "2020-03-22T03:15:05+00:00"}]}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-23"}, "errors": [], "results": 1, "response": [{"continent": "Europe", "country": "Hungary", "population": null, "cases": {"new": "+28", "active": 109, "critical": 6, "recovered": 16, "1M_pop": "14", "total": 131}, "deaths": {"new": "+2", "1M_pop": null, "total": 6}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-23", "time": "2020-03-23T06:30:05+00:00"}]}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-24"}, "errors": [], "results": 3, "response": [{"continent": "Europe", "country": "Hungary", "population": null, "cases": {"new": "+20", "active": 158, "critical": 6, "recovered": 21, "1M_pop": "19", "total": 187}, "deaths": {"new": null, "1M_pop": null, "total": 8}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-24", "time": "2020-03-24T10:15:05+00:00"}, {"continent": "Europe", "country": "Hungary", "population": null, "cases": {"new": "+36", "active": 138, "critical": 6, "recovered": 21, "1M_pop": "17", "total": 167}, "deaths": {"new": "+2", "1M_pop": null, "total": 8}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-24", "time": "2020-03-24T06:30:05+00:00"}, {"continent": "Europe", "country": "Hungary", "population": null, "cases": {"new": "+36", "active": 144, "critical": 6, "recovered": 16, "1M_pop": "17", "total": 167}, "deaths": {"new": "+1", "1M_pop": null, "total": 7}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-24", "time": "2020-03-24T02:00:06+00:00"}]}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-25"}, "errors": [], "results": 1, "response": [{"continent": "Europe", "country": "Hungary", "population": null, "cases": {"new": "+20", "active": 157, "critical": 6, "recovered": 21, "1M_pop": "19", "total": 187}, "deaths": {"new": "+1", "1M_pop": null, "total": 9}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-25", "time": "2020-03-25T06:15:05+00:00"}]}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-26"}, "errors": [], "results": 1, "response": [{"continent": "Europe", "country": "Hungary", "population": null, "cases": {"new": "+39", "active": 195, "critical": 6, "recovered": 21, "1M_pop": "23", "total": 226}, "deaths": {"new": "+1", "1M_pop": null, "total": 10}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-26", "time": "2020-03-26T05:30:05+00:00"}]}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-27"}, "errors": [], "results": 1, "response": [{"continent": "Europe", "country": "Hungary", "population": null, "cases": {"new": "+35", "active": 223, "critical": 6, "recovered": 28, "1M_pop": "27", "total": 261}, "deaths": {"new": null, "1M_pop": null, "total": 10}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-27", "time": "2020-03-27T06:00:06+00:00"}]}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-28"}, "errors": [], "results": 1, "response": [{"continent": "Europe", "country": "Hungary", "population": null, "cases": {"new": "+39", "active": 256, "critical": 6, "recovered": 34, "1M_pop": "31", "total": 300}, "deaths": {"new": null, "1M_pop": null, "total": 10}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-28", "time": "2020-03-28T07:00:04+00:00"}]}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-29"}, "errors": [], "results": 1, "response": [{"continent": "Europe", "country": "Hungary", "population": null, "cases": {"new": "+43", "active": 298, "critical": 6, "recovered": 34, "1M_pop": "36", "total": 343}, "deaths": {"new": "+1", "1M_pop": null, "total": 11}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-29", "time": "2020-03-29T05:45:06+00:00"}]}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-30"}, "errors": [], "results": 1, "response": [{"continent": "Europe", "country": "Hungary", "population": null, "cases": {"new": "+65", "active": 361, "critical": 6, "recovered": 34, "1M_pop": "42", "total": 408}, "deaths": {"new": "+2", "1M_pop": null, "total": 13}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-30", "time": "2020-03-30T04:45:04+00:00"}]}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-03-31"}, "errors": [], "results": 1, "response": [{"continent": "Europe", "country": "Hungary", "population": null, "cases": {"new": "+39", "active": 398, "critical": 6, "recovered": 34, "1M_pop": "46", "total": 447}, "deaths": {"new": "+2", "1M_pop": null, "total": 15}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-31", "time": "2020-03-31T06:45:05+00:00"}]}, {"get": "history", "parameters": {"country": "Hungary", "day": "2020-04-01"}, "errors": [], "results": 3, "response": [{"continent": "Europe", "country": "Hungary", "population": null, "cases": {"new": "+33", "active": 465, "critical": 6, "recovered": 40, "1M_pop": "54", "total": 525}, "deaths": {"new": "+4", "1M_pop": null, "total": 20}, "tests": {"1M_pop": null, "total": null}, "day": "2020-04-01", "time": "2020-04-01T09:45:04+00:00"}, {"continent": "Europe", "country": "Hungary", "population": null, "cases": {"new": "+33", "active": 469, "critical": 6, "recovered": 40, "1M_pop": "54", "total": 525}, "deaths": {"new": null, "1M_pop": null, "total": 16}, "tests": {"1M_pop": null, "total": null}, "day": "2020-04-01", "time": "2020-04-01T05:45:04+00:00"}, {"continent": "Europe", "country": "Hungary", "population": null, "cases": {"new": "+45", "active": 439, "critical": 6, "recovered": 37, "1M_pop": "51", "total": 492}, "deaths": {"new": "+1", "1M_pop": null, "total": 16}, "tests": {"1M_pop": null, "total": null}, "day": "2020-04-01", "time": "2020-04-01T05:30:04+00:00"}]}]
+[
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-01"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-02"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-03"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-04"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-05"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-06"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-07"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-08"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-09"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-10"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-11"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-12"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-13"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-14"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-15"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-16"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-17"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-18"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-19"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-20"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-21"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-22"
+    },
+    "errors": [],
+    "results": 4,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Hungary",
+        "population": null,
+        "cases": {
+          "new": "+28",
+          "active": 113,
+          "critical": 6,
+          "recovered": 12,
+          "1M_pop": "14",
+          "total": 131
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 6
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-22",
+        "time": "2020-03-22T10:45:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Hungary",
+        "population": null,
+        "cases": {
+          "new": "+28",
+          "active": 120,
+          "critical": 6,
+          "recovered": 7,
+          "1M_pop": "14",
+          "total": 131
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 4
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-22",
+        "time": "2020-03-22T09:30:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Hungary",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 92,
+          "critical": 6,
+          "recovered": 7,
+          "1M_pop": "11",
+          "total": 103
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 4
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-22",
+        "time": "2020-03-22T07:45:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Hungary",
+        "population": null,
+        "cases": {
+          "new": "+18",
+          "active": 92,
+          "critical": 6,
+          "recovered": 7,
+          "1M_pop": "11",
+          "total": 103
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 4
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-22",
+        "time": "2020-03-22T03:15:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-23"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Hungary",
+        "population": null,
+        "cases": {
+          "new": "+28",
+          "active": 109,
+          "critical": 6,
+          "recovered": 16,
+          "1M_pop": "14",
+          "total": 131
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 6
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T06:30:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-24"
+    },
+    "errors": [],
+    "results": 3,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Hungary",
+        "population": null,
+        "cases": {
+          "new": "+20",
+          "active": 158,
+          "critical": 6,
+          "recovered": 21,
+          "1M_pop": "19",
+          "total": 187
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 8
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T10:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Hungary",
+        "population": null,
+        "cases": {
+          "new": "+36",
+          "active": 138,
+          "critical": 6,
+          "recovered": 21,
+          "1M_pop": "17",
+          "total": 167
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 8
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T06:30:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Hungary",
+        "population": null,
+        "cases": {
+          "new": "+36",
+          "active": 144,
+          "critical": 6,
+          "recovered": 16,
+          "1M_pop": "17",
+          "total": 167
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 7
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T02:00:06+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-25"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Hungary",
+        "population": null,
+        "cases": {
+          "new": "+20",
+          "active": 157,
+          "critical": 6,
+          "recovered": 21,
+          "1M_pop": "19",
+          "total": 187
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 9
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-25",
+        "time": "2020-03-25T06:15:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-26"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Hungary",
+        "population": null,
+        "cases": {
+          "new": "+39",
+          "active": 195,
+          "critical": 6,
+          "recovered": 21,
+          "1M_pop": "23",
+          "total": 226
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 10
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T05:30:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-27"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Hungary",
+        "population": null,
+        "cases": {
+          "new": "+35",
+          "active": 223,
+          "critical": 6,
+          "recovered": 28,
+          "1M_pop": "27",
+          "total": 261
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 10
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-27",
+        "time": "2020-03-27T06:00:06+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-28"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Hungary",
+        "population": null,
+        "cases": {
+          "new": "+39",
+          "active": 256,
+          "critical": 6,
+          "recovered": 34,
+          "1M_pop": "31",
+          "total": 300
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 10
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-28",
+        "time": "2020-03-28T07:00:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-29"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Hungary",
+        "population": null,
+        "cases": {
+          "new": "+43",
+          "active": 298,
+          "critical": 6,
+          "recovered": 34,
+          "1M_pop": "36",
+          "total": 343
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 11
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-29",
+        "time": "2020-03-29T05:45:06+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-30"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Hungary",
+        "population": null,
+        "cases": {
+          "new": "+65",
+          "active": 361,
+          "critical": 6,
+          "recovered": 34,
+          "1M_pop": "42",
+          "total": 408
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 13
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-30",
+        "time": "2020-03-30T04:45:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-03-31"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Hungary",
+        "population": null,
+        "cases": {
+          "new": "+39",
+          "active": 398,
+          "critical": 6,
+          "recovered": 34,
+          "1M_pop": "46",
+          "total": 447
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 15
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-31",
+        "time": "2020-03-31T06:45:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Hungary",
+      "day": "2020-04-01"
+    },
+    "errors": [],
+    "results": 3,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Hungary",
+        "population": null,
+        "cases": {
+          "new": "+33",
+          "active": 465,
+          "critical": 6,
+          "recovered": 40,
+          "1M_pop": "54",
+          "total": 525
+        },
+        "deaths": {
+          "new": "+4",
+          "1M_pop": null,
+          "total": 20
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T09:45:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Hungary",
+        "population": null,
+        "cases": {
+          "new": "+33",
+          "active": 469,
+          "critical": 6,
+          "recovered": 40,
+          "1M_pop": "54",
+          "total": 525
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 16
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T05:45:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Hungary",
+        "population": null,
+        "cases": {
+          "new": "+45",
+          "active": 439,
+          "critical": 6,
+          "recovered": 37,
+          "1M_pop": "51",
+          "total": 492
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 16
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T05:30:04+00:00"
+      }
+    ]
+  }
+]

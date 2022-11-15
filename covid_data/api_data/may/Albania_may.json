@@ -1,0 +1,1043 @@
+[
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-01"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Albania",
+        "population": null,
+        "cases": {
+          "new": "+7",
+          "active": 272,
+          "critical": 4,
+          "recovered": 470,
+          "1M_pop": "269",
+          "total": 773
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 31
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 8253
+        },
+        "day": "2020-05-01",
+        "time": "2020-05-01T12:45:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-02"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Albania",
+        "population": null,
+        "cases": {
+          "new": "+9",
+          "active": 263,
+          "critical": 4,
+          "recovered": 488,
+          "1M_pop": "272",
+          "total": 782
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 31
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 8498
+        },
+        "day": "2020-05-02",
+        "time": "2020-05-02T09:30:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-03"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Albania",
+        "population": null,
+        "cases": {
+          "new": "+7",
+          "active": 239,
+          "critical": 4,
+          "recovered": 519,
+          "1M_pop": "274",
+          "total": 789
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 31
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 8669
+        },
+        "day": "2020-05-03",
+        "time": "2020-05-03T09:45:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-04"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Albania",
+        "population": null,
+        "cases": {
+          "new": "+6",
+          "active": 233,
+          "critical": 7,
+          "recovered": 531,
+          "1M_pop": "276",
+          "total": 795
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 31
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 8866
+        },
+        "day": "2020-05-04",
+        "time": "2020-05-04T09:30:06+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-05"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Albania",
+        "population": null,
+        "cases": {
+          "new": "+8",
+          "active": 229,
+          "critical": 7,
+          "recovered": 543,
+          "1M_pop": "279",
+          "total": 803
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 31
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 9006
+        },
+        "day": "2020-05-05",
+        "time": "2020-05-05T10:30:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-06"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Albania",
+        "population": null,
+        "cases": {
+          "new": "+17",
+          "active": 219,
+          "critical": 7,
+          "recovered": 570,
+          "1M_pop": "285",
+          "total": 820
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 31
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 9276
+        },
+        "day": "2020-05-06",
+        "time": "2020-05-06T10:00:03+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-07"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Albania",
+        "population": null,
+        "cases": {
+          "new": "+12",
+          "active": 206,
+          "critical": 7,
+          "recovered": 595,
+          "1M_pop": "289",
+          "total": 832
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 31
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 9531
+        },
+        "day": "2020-05-07",
+        "time": "2020-05-07T10:45:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-08"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Albania",
+        "population": null,
+        "cases": {
+          "new": "+10",
+          "active": 206,
+          "critical": 7,
+          "recovered": 605,
+          "1M_pop": "293",
+          "total": 842
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 31
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 9806
+        },
+        "day": "2020-05-08",
+        "time": "2020-05-08T09:45:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-09"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Albania",
+        "population": null,
+        "cases": {
+          "new": "+8",
+          "active": 199,
+          "critical": 7,
+          "recovered": 620,
+          "1M_pop": "295",
+          "total": 850
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 31
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 10044
+        },
+        "day": "2020-05-09",
+        "time": "2020-05-09T10:15:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-10"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Albania",
+        "population": null,
+        "cases": {
+          "new": "+6",
+          "active": 198,
+          "critical": 7,
+          "recovered": 627,
+          "1M_pop": "297",
+          "total": 856
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 31
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 10268
+        },
+        "day": "2020-05-10",
+        "time": "2020-05-10T11:30:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-11"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-12"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-13"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-14"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-15"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-16"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-17"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Albania",
+        "population": null,
+        "cases": {
+          "new": "+17",
+          "active": 188,
+          "critical": 1,
+          "recovered": 714,
+          "1M_pop": "324",
+          "total": 933
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 31
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 11764
+        },
+        "day": "2020-05-17",
+        "time": "2020-05-17T10:00:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-18"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Albania",
+        "population": null,
+        "cases": {
+          "new": "+13",
+          "active": 200,
+          "critical": 1,
+          "recovered": 715,
+          "1M_pop": "329",
+          "total": 946
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 31
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 12024
+        },
+        "day": "2020-05-18",
+        "time": "2020-05-18T09:30:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-19"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Albania",
+        "population": null,
+        "cases": {
+          "new": "+2",
+          "active": 190,
+          "critical": 1,
+          "recovered": 727,
+          "1M_pop": "329",
+          "total": 948
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 31
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 12192
+        },
+        "day": "2020-05-19",
+        "time": "2020-05-19T10:15:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-20"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Albania",
+        "population": null,
+        "cases": {
+          "new": "+1",
+          "active": 176,
+          "critical": 1,
+          "recovered": 742,
+          "1M_pop": "330",
+          "total": 949
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 31
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 12369
+        },
+        "day": "2020-05-20",
+        "time": "2020-05-20T09:45:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-21"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Albania",
+        "population": null,
+        "cases": {
+          "new": "+15",
+          "active": 175,
+          "critical": 1,
+          "recovered": 758,
+          "1M_pop": "335",
+          "total": 964
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 31
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 12555
+        },
+        "day": "2020-05-21",
+        "time": "2020-05-21T09:45:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-22"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Albania",
+        "population": null,
+        "cases": {
+          "new": "+5",
+          "active": 167,
+          "critical": 3,
+          "recovered": 771,
+          "1M_pop": "337",
+          "total": 969
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 31
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 12759
+        },
+        "day": "2020-05-22",
+        "time": "2020-05-22T10:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-23"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Albania",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 173,
+          "critical": 5,
+          "recovered": 777,
+          "1M_pop": "341",
+          "total": 981
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 31
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 12933
+        },
+        "day": "2020-05-23",
+        "time": "2020-05-23T09:45:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Albania",
+        "population": null,
+        "cases": {
+          "new": "+12",
+          "active": 173,
+          "critical": 3,
+          "recovered": 777,
+          "1M_pop": "341",
+          "total": 981
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 31
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 12933
+        },
+        "day": "2020-05-23",
+        "time": "2020-05-23T09:15:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-24"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Albania",
+        "population": null,
+        "cases": {
+          "new": "+8",
+          "active": 175,
+          "critical": 5,
+          "recovered": 783,
+          "1M_pop": "344",
+          "total": 989
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 31
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 13133
+        },
+        "day": "2020-05-24",
+        "time": "2020-05-24T09:45:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-25"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Albania",
+        "population": null,
+        "cases": {
+          "new": "+9",
+          "active": 177,
+          "critical": 5,
+          "recovered": 789,
+          "1M_pop": "347",
+          "total": 998
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 32
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 13279
+        },
+        "day": "2020-05-25",
+        "time": "2020-05-25T10:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-26"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Albania",
+        "population": null,
+        "cases": {
+          "new": "+6",
+          "active": 177,
+          "critical": 4,
+          "recovered": 795,
+          "1M_pop": "349",
+          "total": 1004
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 32
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 13333
+        },
+        "day": "2020-05-26",
+        "time": "2020-05-26T09:30:03+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-27"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Albania",
+        "population": null,
+        "cases": {
+          "new": "+25",
+          "active": 193,
+          "critical": 3,
+          "recovered": 803,
+          "1M_pop": "358",
+          "total": 1029
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 33
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 13506
+        },
+        "day": "2020-05-27",
+        "time": "2020-05-27T09:15:06+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-28"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Albania",
+        "population": null,
+        "cases": {
+          "new": "+21",
+          "active": 205,
+          "critical": 3,
+          "recovered": 812,
+          "1M_pop": "365",
+          "total": 1050
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 33
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 13768
+        },
+        "day": "2020-05-28",
+        "time": "2020-05-28T09:30:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-29"
+    },
+    "errors": [],
+    "results": 3,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Albania",
+        "population": null,
+        "cases": {
+          "new": "+23",
+          "active": 215,
+          "critical": 5,
+          "recovered": 851,
+          "1M_pop": "382",
+          "total": 1099
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 33
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 14269
+        },
+        "day": "2020-05-29",
+        "time": "2020-05-29T17:45:07+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Albania",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 220,
+          "critical": 3,
+          "recovered": 823,
+          "1M_pop": "374",
+          "total": 1076
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 33
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 13993
+        },
+        "day": "2020-05-29",
+        "time": "2020-05-29T09:30:07+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Albania",
+        "population": null,
+        "cases": {
+          "new": "+26",
+          "active": 220,
+          "critical": 3,
+          "recovered": 823,
+          "1M_pop": "374",
+          "total": 1076
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 33
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 13993
+        },
+        "day": "2020-05-29",
+        "time": "2020-05-29T00:15:06+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-30"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-05-31"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Albania",
+        "population": 2878052,
+        "cases": {
+          "new": "+14",
+          "active": 231,
+          "critical": 4,
+          "recovered": 872,
+          "1M_pop": "395",
+          "total": 1136
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 33
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 14723
+        },
+        "day": "2020-05-31",
+        "time": "2020-05-31T18:30:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Albania",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 232,
+          "critical": 5,
+          "recovered": 857,
+          "1M_pop": "390",
+          "total": 1122
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 33
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 14498
+        },
+        "day": "2020-05-31",
+        "time": "2020-05-31T10:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Albania",
+      "day": "2020-06-01"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Albania",
+        "population": 2878052,
+        "cases": {
+          "new": "+15",
+          "active": 232,
+          "critical": 4,
+          "recovered": 872,
+          "1M_pop": "395",
+          "total": 1137
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": "11",
+          "total": 33
+        },
+        "tests": {
+          "1M_pop": "5116",
+          "total": 14723
+        },
+        "day": "2020-06-01",
+        "time": "2020-06-01T09:30:05+00:00"
+      }
+    ]
+  }
+]

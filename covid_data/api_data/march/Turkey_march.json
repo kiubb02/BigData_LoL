@@ -1,1 +1,813 @@
-[]
+[
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-01"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-02"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-03"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-04"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-05"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-06"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-07"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-08"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-09"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-10"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-11"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-12"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-13"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-14"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-15"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-16"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-17"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-18"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-19"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-20"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-21"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-22"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Turkey",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 926,
+          "critical": null,
+          "recovered": null,
+          "1M_pop": "11",
+          "total": 947
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 21
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-22",
+        "time": "2020-03-22T19:15:05+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Turkey",
+        "population": null,
+        "cases": {
+          "new": "+277",
+          "active": 926,
+          "critical": null,
+          "recovered": null,
+          "1M_pop": "11",
+          "total": 947
+        },
+        "deaths": {
+          "new": "+12",
+          "1M_pop": null,
+          "total": 21
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-22",
+        "time": "2020-03-22T03:15:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-23"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Turkey",
+        "population": null,
+        "cases": {
+          "new": "+289",
+          "active": 1206,
+          "critical": null,
+          "recovered": null,
+          "1M_pop": "15",
+          "total": 1236
+        },
+        "deaths": {
+          "new": "+9",
+          "1M_pop": null,
+          "total": 30
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T20:30:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-24"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Turkey",
+        "population": null,
+        "cases": {
+          "new": "+293",
+          "active": 1492,
+          "critical": null,
+          "recovered": null,
+          "1M_pop": "18",
+          "total": 1529
+        },
+        "deaths": {
+          "new": "+7",
+          "1M_pop": null,
+          "total": 37
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T19:15:06+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-25"
+    },
+    "errors": [],
+    "results": 4,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Turkey",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 1802,
+          "critical": 136,
+          "recovered": 26,
+          "1M_pop": "22",
+          "total": 1872
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 44
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-25",
+        "time": "2020-03-25T20:45:06+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Turkey",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 1802,
+          "critical": null,
+          "recovered": 26,
+          "1M_pop": "22",
+          "total": 1872
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 44
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-25",
+        "time": "2020-03-25T17:15:06+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Turkey",
+        "population": null,
+        "cases": {
+          "new": "+2",
+          "active": 1830,
+          "critical": null,
+          "recovered": null,
+          "1M_pop": "22",
+          "total": 1874
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 44
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-25",
+        "time": "2020-03-25T17:00:06+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Turkey",
+        "population": null,
+        "cases": {
+          "new": "+343",
+          "active": 1828,
+          "critical": null,
+          "recovered": null,
+          "1M_pop": "22",
+          "total": 1872
+        },
+        "deaths": {
+          "new": "+7",
+          "1M_pop": null,
+          "total": 44
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-25",
+        "time": "2020-03-25T13:30:06+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-26"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Turkey",
+        "population": null,
+        "cases": {
+          "new": "+561",
+          "active": 2348,
+          "critical": 136,
+          "recovered": 26,
+          "1M_pop": "29",
+          "total": 2433
+        },
+        "deaths": {
+          "new": "+15",
+          "1M_pop": null,
+          "total": 59
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T19:30:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-27"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Turkey",
+        "population": null,
+        "cases": {
+          "new": "+1196",
+          "active": 3528,
+          "critical": 136,
+          "recovered": 26,
+          "1M_pop": "43",
+          "total": 3629
+        },
+        "deaths": {
+          "new": "+16",
+          "1M_pop": null,
+          "total": 75
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-27",
+        "time": "2020-03-27T16:45:06+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-28"
+    },
+    "errors": [],
+    "results": 3,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Turkey",
+        "population": null,
+        "cases": {
+          "new": "+1704",
+          "active": 7224,
+          "critical": 309,
+          "recovered": 70,
+          "1M_pop": "88",
+          "total": 7402
+        },
+        "deaths": {
+          "new": "+16",
+          "1M_pop": null,
+          "total": 108
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-28",
+        "time": "2020-03-28T22:15:04+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Turkey",
+        "population": null,
+        "cases": {
+          "new": "+1704",
+          "active": 7252,
+          "critical": 309,
+          "recovered": 42,
+          "1M_pop": "88",
+          "total": 7402
+        },
+        "deaths": {
+          "new": "+16",
+          "1M_pop": null,
+          "total": 108
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-28",
+        "time": "2020-03-28T19:30:05+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Turkey",
+        "population": null,
+        "cases": {
+          "new": "+2069",
+          "active": 5564,
+          "critical": 241,
+          "recovered": 42,
+          "1M_pop": "68",
+          "total": 5698
+        },
+        "deaths": {
+          "new": "+17",
+          "1M_pop": null,
+          "total": 92
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-28",
+        "time": "2020-03-28T17:00:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-29"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Turkey",
+        "population": null,
+        "cases": {
+          "new": "+1704",
+          "active": 7224,
+          "critical": 445,
+          "recovered": 70,
+          "1M_pop": "88",
+          "total": 7402
+        },
+        "deaths": {
+          "new": "+16",
+          "1M_pop": null,
+          "total": 108
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-29",
+        "time": "2020-03-29T16:15:06+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-30"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Turkey",
+        "population": null,
+        "cases": {
+          "new": "+1610",
+          "active": 10554,
+          "critical": 568,
+          "recovered": 105,
+          "1M_pop": "128",
+          "total": 10827
+        },
+        "deaths": {
+          "new": "+37",
+          "1M_pop": null,
+          "total": 168
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-30",
+        "time": "2020-03-30T18:15:04+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Turkey",
+        "population": null,
+        "cases": {
+          "new": "+1815",
+          "active": 8981,
+          "critical": 568,
+          "recovered": 105,
+          "1M_pop": "109",
+          "total": 9217
+        },
+        "deaths": {
+          "new": "+23",
+          "1M_pop": null,
+          "total": 131
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-30",
+        "time": "2020-03-30T16:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-03-31"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Turkey",
+        "population": null,
+        "cases": {
+          "new": "+2704",
+          "active": 13074,
+          "critical": 568,
+          "recovered": 243,
+          "1M_pop": "160",
+          "total": 13531
+        },
+        "deaths": {
+          "new": "+46",
+          "1M_pop": null,
+          "total": 214
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-31",
+        "time": "2020-03-31T17:30:05+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Turkey",
+        "population": null,
+        "cases": {
+          "new": "+1610",
+          "active": 10497,
+          "critical": 568,
+          "recovered": 162,
+          "1M_pop": "128",
+          "total": 10827
+        },
+        "deaths": {
+          "new": "+37",
+          "1M_pop": null,
+          "total": 168
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-31",
+        "time": "2020-03-31T17:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Turkey",
+      "day": "2020-04-01"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Turkey",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 13074,
+          "critical": 847,
+          "recovered": 243,
+          "1M_pop": "160",
+          "total": 13531
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 214
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T16:45:04+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Turkey",
+        "population": null,
+        "cases": {
+          "new": "+2704",
+          "active": 13074,
+          "critical": 622,
+          "recovered": 243,
+          "1M_pop": "160",
+          "total": 13531
+        },
+        "deaths": {
+          "new": "+46",
+          "1M_pop": null,
+          "total": 214
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T06:45:04+00:00"
+      }
+    ]
+  }
+]

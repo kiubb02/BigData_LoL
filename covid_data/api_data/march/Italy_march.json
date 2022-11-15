@@ -1,1 +1,717 @@
-[{"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}]
+[
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-01"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-02"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-03"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-04"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-05"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-06"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-07"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-08"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-09"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-10"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-11"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-12"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-13"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-14"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-15"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-16"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-17"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-18"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-19"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-20"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-21"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-22"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Italy",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 42681,
+          "critical": 2857,
+          "recovered": 6072,
+          "1M_pop": "886",
+          "total": 53578
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 4825
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-22",
+        "time": "2020-03-22T17:00:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Italy",
+        "population": null,
+        "cases": {
+          "new": "+6557",
+          "active": 42681,
+          "critical": 2857,
+          "recovered": 6072,
+          "1M_pop": "886",
+          "total": 53578
+        },
+        "deaths": {
+          "new": "+793",
+          "1M_pop": null,
+          "total": 4825
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-22",
+        "time": "2020-03-22T03:15:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-23"
+    },
+    "errors": [],
+    "results": 3,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Italy",
+        "population": null,
+        "cases": {
+          "new": "+4790",
+          "active": 50418,
+          "critical": 3204,
+          "recovered": 7432,
+          "1M_pop": "1057",
+          "total": 63928
+        },
+        "deaths": {
+          "new": "+602",
+          "1M_pop": null,
+          "total": 6078
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T17:30:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Italy",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 46638,
+          "critical": 3009,
+          "recovered": 7024,
+          "1M_pop": "978",
+          "total": 59138
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 5476
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T17:15:08+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Italy",
+        "population": null,
+        "cases": {
+          "new": "+5560",
+          "active": 46638,
+          "critical": 3000,
+          "recovered": 7024,
+          "1M_pop": "978",
+          "total": 59138
+        },
+        "deaths": {
+          "new": "+651",
+          "1M_pop": null,
+          "total": 5476
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T17:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-24"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Italy",
+        "population": null,
+        "cases": {
+          "new": "+4789",
+          "active": 50418,
+          "critical": 3204,
+          "recovered": 7432,
+          "1M_pop": "1057",
+          "total": 63927
+        },
+        "deaths": {
+          "new": "+601",
+          "1M_pop": null,
+          "total": 6077
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T17:00:06+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-25"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Italy",
+        "population": null,
+        "cases": {
+          "new": "+5249",
+          "active": 54030,
+          "critical": 3393,
+          "recovered": 8326,
+          "1M_pop": "1144",
+          "total": 69176
+        },
+        "deaths": {
+          "new": "+743",
+          "1M_pop": null,
+          "total": 6820
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-25",
+        "time": "2020-03-25T17:00:06+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-26"
+    },
+    "errors": [],
+    "results": 3,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Italy",
+        "population": null,
+        "cases": {
+          "new": "+6153",
+          "active": 61963,
+          "critical": 3612,
+          "recovered": 10361,
+          "1M_pop": "1332",
+          "total": 80539
+        },
+        "deaths": {
+          "new": "+712",
+          "1M_pop": null,
+          "total": 8215
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T18:15:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Italy",
+        "population": null,
+        "cases": {
+          "new": "+6153",
+          "active": 62013,
+          "critical": 3612,
+          "recovered": 10361,
+          "1M_pop": "1332",
+          "total": 80539
+        },
+        "deaths": {
+          "new": "+662",
+          "1M_pop": null,
+          "total": 8165
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T17:45:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Italy",
+        "population": null,
+        "cases": {
+          "new": "+5210",
+          "active": 57521,
+          "critical": 3489,
+          "recovered": 9362,
+          "1M_pop": "1230",
+          "total": 74386
+        },
+        "deaths": {
+          "new": "+683",
+          "1M_pop": null,
+          "total": 7503
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T17:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-27"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Italy",
+        "population": null,
+        "cases": {
+          "new": "+6203",
+          "active": 62013,
+          "critical": 3612,
+          "recovered": 10361,
+          "1M_pop": "1333",
+          "total": 80589
+        },
+        "deaths": {
+          "new": "+712",
+          "1M_pop": null,
+          "total": 8215
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-27",
+        "time": "2020-03-27T16:45:06+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-28"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Italy",
+        "population": null,
+        "cases": {
+          "new": "+5909",
+          "active": 66414,
+          "critical": 3732,
+          "recovered": 10950,
+          "1M_pop": "1431",
+          "total": 86498
+        },
+        "deaths": {
+          "new": "+919",
+          "1M_pop": null,
+          "total": 9134
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-28",
+        "time": "2020-03-28T17:15:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-29"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Italy",
+        "population": null,
+        "cases": {
+          "new": "+5974",
+          "active": 70065,
+          "critical": 3856,
+          "recovered": 12384,
+          "1M_pop": "1529",
+          "total": 92472
+        },
+        "deaths": {
+          "new": "+889",
+          "1M_pop": null,
+          "total": 10023
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-29",
+        "time": "2020-03-29T16:00:03+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-30"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Italy",
+        "population": null,
+        "cases": {
+          "new": "+5217",
+          "active": 73880,
+          "critical": 3906,
+          "recovered": 13030,
+          "1M_pop": "1616",
+          "total": 97689
+        },
+        "deaths": {
+          "new": "+756",
+          "1M_pop": null,
+          "total": 10779
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-30",
+        "time": "2020-03-30T16:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-03-31"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Italy",
+        "population": null,
+        "cases": {
+          "new": "+4050",
+          "active": 75528,
+          "critical": 3981,
+          "recovered": 14620,
+          "1M_pop": "1683",
+          "total": 101739
+        },
+        "deaths": {
+          "new": "+812",
+          "1M_pop": null,
+          "total": 11591
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-31",
+        "time": "2020-03-31T16:02:35+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Italy",
+      "day": "2020-04-01"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Italy",
+        "population": null,
+        "cases": {
+          "new": "+4053",
+          "active": 77635,
+          "critical": 4023,
+          "recovered": 15729,
+          "1M_pop": "1750",
+          "total": 105792
+        },
+        "deaths": {
+          "new": "+837",
+          "1M_pop": null,
+          "total": 12428
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T16:15:05+00:00"
+      }
+    ]
+  }
+]

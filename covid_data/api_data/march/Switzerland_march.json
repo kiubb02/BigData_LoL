@@ -1,1 +1,1845 @@
-[]
+[
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-01"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-02"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-03"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-04"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-05"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-06"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-07"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-08"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-09"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-10"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-11"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-12"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-13"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-14"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-15"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-16"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-17"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-18"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-19"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-20"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-21"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-22"
+    },
+    "errors": [],
+    "results": 6,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+504",
+          "active": 7138,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "851",
+          "total": 7367
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 98
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-22",
+        "time": "2020-03-22T18:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+494",
+          "active": 7138,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "850",
+          "total": 7357
+        },
+        "deaths": {
+          "new": "+8",
+          "1M_pop": null,
+          "total": 88
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-22",
+        "time": "2020-03-22T18:00:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+367",
+          "active": 7014,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "835",
+          "total": 7230
+        },
+        "deaths": {
+          "new": "+5",
+          "1M_pop": null,
+          "total": 85
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-22",
+        "time": "2020-03-22T17:57:30+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+362",
+          "active": 7014,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "835",
+          "total": 7225
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 80
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-22",
+        "time": "2020-03-22T15:45:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 6652,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "793",
+          "total": 6863
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 80
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-22",
+        "time": "2020-03-22T11:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+1248",
+          "active": 6652,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "793",
+          "total": 6863
+        },
+        "deaths": {
+          "new": "+24",
+          "1M_pop": null,
+          "total": 80
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-22",
+        "time": "2020-03-22T03:15:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-23"
+    },
+    "errors": [],
+    "results": 7,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+1073",
+          "active": 8298,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "988",
+          "total": 8547
+        },
+        "deaths": {
+          "new": "+20",
+          "1M_pop": null,
+          "total": 118
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T22:30:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+760",
+          "active": 7996,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "951",
+          "total": 8234
+        },
+        "deaths": {
+          "new": "+9",
+          "1M_pop": null,
+          "total": 107
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T12:45:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+760",
+          "active": 8001,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "951",
+          "total": 8234
+        },
+        "deaths": {
+          "new": "+4",
+          "1M_pop": null,
+          "total": 102
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T11:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+332",
+          "active": 7575,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "902",
+          "total": 7806
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 100
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T10:45:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+302",
+          "active": 7545,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "898",
+          "total": 7776
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 100
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T10:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+250",
+          "active": 7495,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "892",
+          "total": 7724
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 98
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T08:45:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+611",
+          "active": 7245,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "864",
+          "total": 7474
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 98
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T07:15:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-24"
+    },
+    "errors": [],
+    "results": 3,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+322",
+          "active": 8864,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "1053",
+          "total": 9117
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 122
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T18:30:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 8547,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "1016",
+          "total": 8795
+        },
+        "deaths": {
+          "new": "+-3",
+          "1M_pop": null,
+          "total": 117
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T10:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+1321",
+          "active": 8544,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "1016",
+          "total": 8795
+        },
+        "deaths": {
+          "new": "+22",
+          "1M_pop": null,
+          "total": 120
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T09:15:06+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-25"
+    },
+    "errors": [],
+    "results": 6,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+660",
+          "active": 10257,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "1217",
+          "total": 10537
+        },
+        "deaths": {
+          "new": "+27",
+          "1M_pop": null,
+          "total": 149
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-25",
+        "time": "2020-03-25T17:30:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+579",
+          "active": 10180,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "1208",
+          "total": 10456
+        },
+        "deaths": {
+          "new": "+23",
+          "1M_pop": null,
+          "total": 145
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-25",
+        "time": "2020-03-25T13:45:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+294",
+          "active": 9905,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "1175",
+          "total": 10171
+        },
+        "deaths": {
+          "new": "+13",
+          "1M_pop": null,
+          "total": 135
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-25",
+        "time": "2020-03-25T11:45:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+114",
+          "active": 9727,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "1154",
+          "total": 9991
+        },
+        "deaths": {
+          "new": "+11",
+          "1M_pop": null,
+          "total": 133
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-25",
+        "time": "2020-03-25T09:30:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+14",
+          "active": 9628,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "1143",
+          "total": 9891
+        },
+        "deaths": {
+          "new": "+10",
+          "1M_pop": null,
+          "total": 132
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-25",
+        "time": "2020-03-25T08:00:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+1082",
+          "active": 9624,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "1141",
+          "total": 9877
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 122
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-25",
+        "time": "2020-03-25T07:30:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-26"
+    },
+    "errors": [],
+    "results": 11,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+815",
+          "active": 11390,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "1353",
+          "total": 11712
+        },
+        "deaths": {
+          "new": "+38",
+          "1M_pop": null,
+          "total": 191
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T20:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+678",
+          "active": 11272,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "1337",
+          "total": 11575
+        },
+        "deaths": {
+          "new": "+19",
+          "1M_pop": null,
+          "total": 172
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T15:45:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+419",
+          "active": 11014,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "1308",
+          "total": 11316
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 171
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T14:15:08+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+696",
+          "active": 11291,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "1340",
+          "total": 11593
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 171
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T12:45:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+581",
+          "active": 11178,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "1326",
+          "total": 11478
+        },
+        "deaths": {
+          "new": "+16",
+          "1M_pop": null,
+          "total": 169
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T12:30:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+538",
+          "active": 11139,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "1321",
+          "total": 11435
+        },
+        "deaths": {
+          "new": "+12",
+          "1M_pop": null,
+          "total": 165
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T12:00:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+228",
+          "active": 10829,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "1285",
+          "total": 11125
+        },
+        "deaths": {
+          "new": "+12",
+          "1M_pop": null,
+          "total": 165
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T11:30:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+228",
+          "active": 10830,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "1285",
+          "total": 11125
+        },
+        "deaths": {
+          "new": "+11",
+          "1M_pop": null,
+          "total": 164
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T10:45:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+130",
+          "active": 10742,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "1274",
+          "total": 11027
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 154
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T10:15:07+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+12",
+          "active": 10625,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "1260",
+          "total": 10909
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 153
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T09:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+1020",
+          "active": 10613,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "1259",
+          "total": 10897
+        },
+        "deaths": {
+          "new": "+31",
+          "1M_pop": null,
+          "total": 153
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T09:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-27"
+    },
+    "errors": [],
+    "results": 7,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+500",
+          "active": 11207,
+          "critical": 203,
+          "recovered": 897,
+          "1M_pop": "1422",
+          "total": 12311
+        },
+        "deaths": {
+          "new": "+15",
+          "1M_pop": null,
+          "total": 207
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-27",
+        "time": "2020-03-27T17:30:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+140",
+          "active": 10857,
+          "critical": 203,
+          "recovered": 897,
+          "1M_pop": "1381",
+          "total": 11951
+        },
+        "deaths": {
+          "new": "+5",
+          "1M_pop": null,
+          "total": 197
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-27",
+        "time": "2020-03-27T12:45:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+140",
+          "active": 11623,
+          "critical": 203,
+          "recovered": 131,
+          "1M_pop": "1381",
+          "total": 11951
+        },
+        "deaths": {
+          "new": "+5",
+          "1M_pop": null,
+          "total": 197
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-27",
+        "time": "2020-03-27T10:45:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 11486,
+          "critical": 203,
+          "recovered": 131,
+          "1M_pop": "1365",
+          "total": 11811
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 194
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-27",
+        "time": "2020-03-27T10:15:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 11486,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "1365",
+          "total": 11811
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 194
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-27",
+        "time": "2020-03-27T08:30:09+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+914",
+          "active": 11488,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "1365",
+          "total": 11811
+        },
+        "deaths": {
+          "new": "+39",
+          "1M_pop": null,
+          "total": 192
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-27",
+        "time": "2020-03-27T07:45:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+914",
+          "active": 11489,
+          "critical": 141,
+          "recovered": 131,
+          "1M_pop": "1365",
+          "total": 11811
+        },
+        "deaths": {
+          "new": "+38",
+          "1M_pop": null,
+          "total": 191
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-27",
+        "time": "2020-03-27T01:45:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-28"
+    },
+    "errors": [],
+    "results": 7,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+449",
+          "active": 11605,
+          "critical": 280,
+          "recovered": 1530,
+          "1M_pop": "1546",
+          "total": 13377
+        },
+        "deaths": {
+          "new": "+11",
+          "1M_pop": null,
+          "total": 242
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-28",
+        "time": "2020-03-28T19:30:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+449",
+          "active": 11605,
+          "critical": 203,
+          "recovered": 1530,
+          "1M_pop": "1546",
+          "total": 13377
+        },
+        "deaths": {
+          "new": "+11",
+          "1M_pop": null,
+          "total": 242
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-28",
+        "time": "2020-03-28T16:15:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+331",
+          "active": 11488,
+          "critical": 203,
+          "recovered": 1530,
+          "1M_pop": "1532",
+          "total": 13259
+        },
+        "deaths": {
+          "new": "+10",
+          "1M_pop": null,
+          "total": 241
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-28",
+        "time": "2020-03-28T13:00:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+298",
+          "active": 11456,
+          "critical": 203,
+          "recovered": 1530,
+          "1M_pop": "1528",
+          "total": 13226
+        },
+        "deaths": {
+          "new": "+9",
+          "1M_pop": null,
+          "total": 240
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-28",
+        "time": "2020-03-28T11:30:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+259",
+          "active": 11417,
+          "critical": 203,
+          "recovered": 1530,
+          "1M_pop": "1524",
+          "total": 13187
+        },
+        "deaths": {
+          "new": "+9",
+          "1M_pop": null,
+          "total": 240
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-28",
+        "time": "2020-03-28T10:30:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+210",
+          "active": 11371,
+          "critical": 203,
+          "recovered": 1530,
+          "1M_pop": "1518",
+          "total": 13138
+        },
+        "deaths": {
+          "new": "+6",
+          "1M_pop": null,
+          "total": 237
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-28",
+        "time": "2020-03-28T10:00:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+1117",
+          "active": 11167,
+          "critical": 203,
+          "recovered": 1530,
+          "1M_pop": "1494",
+          "total": 12928
+        },
+        "deaths": {
+          "new": "+39",
+          "1M_pop": null,
+          "total": 231
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-28",
+        "time": "2020-03-28T08:45:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-29"
+    },
+    "errors": [],
+    "results": 4,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+517",
+          "active": 12708,
+          "critical": 301,
+          "recovered": 1595,
+          "1M_pop": "1686",
+          "total": 14593
+        },
+        "deaths": {
+          "new": "+26",
+          "1M_pop": null,
+          "total": 290
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-29",
+        "time": "2020-03-29T14:45:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+276",
+          "active": 12475,
+          "critical": 301,
+          "recovered": 1595,
+          "1M_pop": "1658",
+          "total": 14352
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 282
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-29",
+        "time": "2020-03-29T13:00:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 12217,
+          "critical": 301,
+          "recovered": 1595,
+          "1M_pop": "1626",
+          "total": 14076
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 264
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-29",
+        "time": "2020-03-29T09:45:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+1148",
+          "active": 12282,
+          "critical": 301,
+          "recovered": 1530,
+          "1M_pop": "1626",
+          "total": 14076
+        },
+        "deaths": {
+          "new": "+33",
+          "1M_pop": null,
+          "total": 264
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-29",
+        "time": "2020-03-29T04:30:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-30"
+    },
+    "errors": [],
+    "results": 6,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+931",
+          "active": 13589,
+          "critical": 301,
+          "recovered": 1823,
+          "1M_pop": "1821",
+          "total": 15760
+        },
+        "deaths": {
+          "new": "+48",
+          "1M_pop": null,
+          "total": 348
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-30",
+        "time": "2020-03-30T21:30:09+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+697",
+          "active": 13370,
+          "critical": 301,
+          "recovered": 1823,
+          "1M_pop": "1794",
+          "total": 15526
+        },
+        "deaths": {
+          "new": "+33",
+          "1M_pop": null,
+          "total": 333
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-30",
+        "time": "2020-03-30T16:30:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+646",
+          "active": 13325,
+          "critical": 301,
+          "recovered": 1823,
+          "1M_pop": "1788",
+          "total": 15475
+        },
+        "deaths": {
+          "new": "+27",
+          "1M_pop": null,
+          "total": 327
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-30",
+        "time": "2020-03-30T13:00:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+240",
+          "active": 12934,
+          "critical": 301,
+          "recovered": 1823,
+          "1M_pop": "1741",
+          "total": 15069
+        },
+        "deaths": {
+          "new": "+12",
+          "1M_pop": null,
+          "total": 312
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-30",
+        "time": "2020-03-30T12:00:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+115",
+          "active": 12821,
+          "critical": 301,
+          "recovered": 1823,
+          "1M_pop": "1727",
+          "total": 14944
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 300
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-30",
+        "time": "2020-03-30T09:30:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+753",
+          "active": 12934,
+          "critical": 301,
+          "recovered": 1595,
+          "1M_pop": "1713",
+          "total": 14829
+        },
+        "deaths": {
+          "new": "+36",
+          "1M_pop": null,
+          "total": 300
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-30",
+        "time": "2020-03-30T08:15:10+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-03-31"
+    },
+    "errors": [],
+    "results": 3,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+264",
+          "active": 13968,
+          "critical": 301,
+          "recovered": 1823,
+          "1M_pop": "1870",
+          "total": 16186
+        },
+        "deaths": {
+          "new": "+36",
+          "1M_pop": null,
+          "total": 395
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-31",
+        "time": "2020-03-31T19:30:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+254",
+          "active": 13980,
+          "critical": 301,
+          "recovered": 1823,
+          "1M_pop": "1869",
+          "total": 16176
+        },
+        "deaths": {
+          "new": "+14",
+          "1M_pop": null,
+          "total": 373
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-31",
+        "time": "2020-03-31T13:47:35+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+1093",
+          "active": 13740,
+          "critical": 301,
+          "recovered": 1823,
+          "1M_pop": "1840",
+          "total": 15922
+        },
+        "deaths": {
+          "new": "+59",
+          "1M_pop": null,
+          "total": 359
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-31",
+        "time": "2020-03-31T11:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Switzerland",
+      "day": "2020-04-01"
+    },
+    "errors": [],
+    "results": 3,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+532",
+          "active": 13709,
+          "critical": 348,
+          "recovered": 2967,
+          "1M_pop": "1980",
+          "total": 17137
+        },
+        "deaths": {
+          "new": "+28",
+          "1M_pop": null,
+          "total": 461
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T19:30:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 13205,
+          "critical": 301,
+          "recovered": 2967,
+          "1M_pop": "1919",
+          "total": 16605
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 433
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T12:45:17+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Switzerland",
+        "population": null,
+        "cases": {
+          "new": "+683",
+          "active": 14349,
+          "critical": 301,
+          "recovered": 1823,
+          "1M_pop": "1919",
+          "total": 16605
+        },
+        "deaths": {
+          "new": "+74",
+          "1M_pop": null,
+          "total": 433
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T09:45:04+00:00"
+      }
+    ]
+  }
+]

@@ -1,1 +1,813 @@
-[{"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}]
+[
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-01"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-02"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-03"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-04"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-05"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-06"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-07"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-08"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-09"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-10"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-11"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-12"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-13"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-14"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-15"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-16"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-17"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-18"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-19"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-20"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-21"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-22"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "France",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 12310,
+          "critical": 1525,
+          "recovered": 1587,
+          "1M_pop": "222",
+          "total": 14459
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 562
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-22",
+        "time": "2020-03-22T18:30:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "France",
+        "population": null,
+        "cases": {
+          "new": "+1847",
+          "active": 12310,
+          "critical": 1525,
+          "recovered": 1587,
+          "1M_pop": "222",
+          "total": 14459
+        },
+        "deaths": {
+          "new": "+112",
+          "1M_pop": null,
+          "total": 562
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-22",
+        "time": "2020-03-22T03:15:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-23"
+    },
+    "errors": [],
+    "results": 4,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "France",
+        "population": null,
+        "cases": {
+          "new": "+671",
+          "active": 13629,
+          "critical": 1746,
+          "recovered": 2200,
+          "1M_pop": "256",
+          "total": 16689
+        },
+        "deaths": {
+          "new": "+186",
+          "1M_pop": null,
+          "total": 860
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T18:15:08+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "France",
+        "population": null,
+        "cases": {
+          "new": "+671",
+          "active": 13815,
+          "critical": 1746,
+          "recovered": 2200,
+          "1M_pop": "256",
+          "total": 16689
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 674
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T18:00:07+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "France",
+        "population": null,
+        "cases": {
+          "new": "+463",
+          "active": 13607,
+          "critical": 1746,
+          "recovered": 2200,
+          "1M_pop": "252",
+          "total": 16481
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 674
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T13:00:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "France",
+        "population": null,
+        "cases": {
+          "new": "+1559",
+          "active": 13144,
+          "critical": 1746,
+          "recovered": 2200,
+          "1M_pop": "245",
+          "total": 16018
+        },
+        "deaths": {
+          "new": "+112",
+          "1M_pop": null,
+          "total": 674
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T11:15:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-24"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "France",
+        "population": null,
+        "cases": {
+          "new": "+3838",
+          "active": 16796,
+          "critical": 2082,
+          "recovered": 2200,
+          "1M_pop": "304",
+          "total": 19856
+        },
+        "deaths": {
+          "new": "+186",
+          "1M_pop": null,
+          "total": 860
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T18:45:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-25"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "France",
+        "population": null,
+        "cases": {
+          "new": "+2448",
+          "active": 17923,
+          "critical": 2516,
+          "recovered": 3281,
+          "1M_pop": "342",
+          "total": 22304
+        },
+        "deaths": {
+          "new": "+240",
+          "1M_pop": null,
+          "total": 1100
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-25",
+        "time": "2020-03-25T18:15:06+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-26"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "France",
+        "population": null,
+        "cases": {
+          "new": "+2929",
+          "active": 20002,
+          "critical": 2827,
+          "recovered": 3900,
+          "1M_pop": "387",
+          "total": 25233
+        },
+        "deaths": {
+          "new": "+231",
+          "1M_pop": null,
+          "total": 1331
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T18:30:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-27"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "France",
+        "population": null,
+        "cases": {
+          "new": "+3922",
+          "active": 22511,
+          "critical": 3375,
+          "recovered": 4948,
+          "1M_pop": "447",
+          "total": 29155
+        },
+        "deaths": {
+          "new": "+365",
+          "1M_pop": null,
+          "total": 1696
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-27",
+        "time": "2020-03-27T18:15:12+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-28"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "France",
+        "population": null,
+        "cases": {
+          "new": "+3809",
+          "active": 25269,
+          "critical": 3787,
+          "recovered": 5700,
+          "1M_pop": "505",
+          "total": 32964
+        },
+        "deaths": {
+          "new": "+299",
+          "1M_pop": null,
+          "total": 1995
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-28",
+        "time": "2020-03-28T18:15:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-29"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "France",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 27767,
+          "critical": 4632,
+          "recovered": 7202,
+          "1M_pop": "576",
+          "total": 37575
+        },
+        "deaths": {
+          "new": "+292",
+          "1M_pop": null,
+          "total": 2606
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-29",
+        "time": "2020-03-29T17:30:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "France",
+        "population": null,
+        "cases": {
+          "new": "+4611",
+          "active": 29561,
+          "critical": 4273,
+          "recovered": 5700,
+          "1M_pop": "576",
+          "total": 37575
+        },
+        "deaths": {
+          "new": "+319",
+          "1M_pop": null,
+          "total": 2314
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-29",
+        "time": "2020-03-29T17:15:06+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-30"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "France",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 29223,
+          "critical": 5056,
+          "recovered": 7927,
+          "1M_pop": "615",
+          "total": 40174
+        },
+        "deaths": {
+          "new": "+418",
+          "1M_pop": null,
+          "total": 3024
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-30",
+        "time": "2020-03-30T17:45:13+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "France",
+        "population": null,
+        "cases": {
+          "new": "+2599",
+          "active": 30366,
+          "critical": 4632,
+          "recovered": 7202,
+          "1M_pop": "615",
+          "total": 40174
+        },
+        "deaths": {
+          "new": "+292",
+          "1M_pop": null,
+          "total": 2606
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-30",
+        "time": "2020-03-30T17:30:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-03-31"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "France",
+        "population": null,
+        "cases": {
+          "new": "+7578",
+          "active": 40678,
+          "critical": 5056,
+          "recovered": 7927,
+          "1M_pop": "799",
+          "total": 52128
+        },
+        "deaths": {
+          "new": "+499",
+          "1M_pop": null,
+          "total": 3523
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-31",
+        "time": "2020-03-31T18:00:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "France",
+        "population": null,
+        "cases": {
+          "new": "+4376",
+          "active": 33599,
+          "critical": 5056,
+          "recovered": 7927,
+          "1M_pop": "683",
+          "total": 44550
+        },
+        "deaths": {
+          "new": "+418",
+          "1M_pop": null,
+          "total": 3024
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-31",
+        "time": "2020-03-31T17:30:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "France",
+      "day": "2020-04-01"
+    },
+    "errors": [],
+    "results": 3,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "France",
+        "population": null,
+        "cases": {
+          "new": "+4861",
+          "active": 42023,
+          "critical": 6017,
+          "recovered": 10934,
+          "1M_pop": "873",
+          "total": 56989
+        },
+        "deaths": {
+          "new": "+509",
+          "1M_pop": null,
+          "total": 4032
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T23:30:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "France",
+        "population": null,
+        "cases": {
+          "new": "+4861",
+          "active": 42023,
+          "critical": 5565,
+          "recovered": 10934,
+          "1M_pop": "873",
+          "total": 56989
+        },
+        "deaths": {
+          "new": "+509",
+          "1M_pop": null,
+          "total": 4032
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T21:30:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "France",
+        "population": null,
+        "cases": {
+          "new": "+7578",
+          "active": 39161,
+          "critical": 5565,
+          "recovered": 9444,
+          "1M_pop": "799",
+          "total": 52128
+        },
+        "deaths": {
+          "new": "+499",
+          "1M_pop": null,
+          "total": 3523
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T18:15:05+00:00"
+      }
+    ]
+  }
+]

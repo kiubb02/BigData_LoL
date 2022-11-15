@@ -1,1 +1,1107 @@
-[]
+[
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-01"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": null,
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": "+6",
+          "active": 354,
+          "critical": 12,
+          "recovered": 10,
+          "1M_pop": "4866",
+          "total": 376
+        },
+        "deaths": {
+          "new": "+4",
+          "1M_pop": null,
+          "total": 12
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T13:30:06+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-02"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": null,
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": "+14",
+          "active": 366,
+          "critical": 12,
+          "recovered": 10,
+          "1M_pop": "5048",
+          "total": 390
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 14
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-02",
+        "time": "2020-04-02T11:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-03"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": null,
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": "+38",
+          "active": 403,
+          "critical": 12,
+          "recovered": 10,
+          "1M_pop": "5539",
+          "total": 428
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 15
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-03",
+        "time": "2020-04-03T12:02:34+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-04"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": null,
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": "+11",
+          "active": 407,
+          "critical": 12,
+          "recovered": 16,
+          "1M_pop": "5682",
+          "total": 439
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 16
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-04",
+        "time": "2020-04-04T12:15:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-05"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": null,
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": "+27",
+          "active": 428,
+          "critical": 12,
+          "recovered": 21,
+          "1M_pop": "6031",
+          "total": 466
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 17
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-05",
+        "time": "2020-04-05T11:30:06+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-06"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": null,
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": "+35",
+          "active": 457,
+          "critical": 12,
+          "recovered": 26,
+          "1M_pop": "6484",
+          "total": 501
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 18
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-06",
+        "time": "2020-04-06T19:45:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-07"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": null,
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": "+24",
+          "active": 473,
+          "critical": 12,
+          "recovered": 31,
+          "1M_pop": "6795",
+          "total": 525
+        },
+        "deaths": {
+          "new": "+3",
+          "1M_pop": null,
+          "total": 21
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-07",
+        "time": "2020-04-07T19:30:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-08"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": null,
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": "+20",
+          "active": 484,
+          "critical": 17,
+          "recovered": 39,
+          "1M_pop": "7054",
+          "total": 545
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 22
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 1673
+        },
+        "day": "2020-04-08",
+        "time": "2020-04-08T14:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-09"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": null,
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": "+19",
+          "active": 489,
+          "critical": 17,
+          "recovered": 52,
+          "1M_pop": "7300",
+          "total": 564
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 23
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 1673
+        },
+        "day": "2020-04-09",
+        "time": "2020-04-09T13:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-10"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": null,
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": "+19",
+          "active": 500,
+          "critical": 17,
+          "recovered": 58,
+          "1M_pop": "7545",
+          "total": 583
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 25
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 1673
+        },
+        "day": "2020-04-10",
+        "time": "2020-04-10T12:45:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-11"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-12"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": "+21",
+          "active": 523,
+          "critical": 17,
+          "recovered": 71,
+          "1M_pop": "8050",
+          "total": 622
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 28
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 1673
+        },
+        "day": "2020-04-12",
+        "time": "2020-04-12T13:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": "+18",
+          "active": 504,
+          "critical": 17,
+          "recovered": 71,
+          "1M_pop": "7778",
+          "total": 601
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 26
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 1673
+        },
+        "day": "2020-04-12",
+        "time": "2020-04-12T11:45:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-13"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": "+37",
+          "active": 481,
+          "critical": 17,
+          "recovered": 128,
+          "1M_pop": "8257",
+          "total": 638
+        },
+        "deaths": {
+          "new": "+3",
+          "1M_pop": null,
+          "total": 29
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 1673
+        },
+        "day": "2020-04-13",
+        "time": "2020-04-13T14:00:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-14"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": "+8",
+          "active": 489,
+          "critical": 17,
+          "recovered": 128,
+          "1M_pop": "8361",
+          "total": 646
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 29
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 1673
+        },
+        "day": "2020-04-14",
+        "time": "2020-04-14T20:30:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-15"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": "+13",
+          "active": 500,
+          "critical": 17,
+          "recovered": 128,
+          "1M_pop": "8529",
+          "total": 659
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 31
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 1673
+        },
+        "day": "2020-04-15",
+        "time": "2020-04-15T14:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-16"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-17"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": "+9",
+          "active": 480,
+          "critical": 17,
+          "recovered": 169,
+          "1M_pop": "8827",
+          "total": 682
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 33
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 1673
+        },
+        "day": "2020-04-17",
+        "time": "2020-04-17T12:17:39+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": "+14",
+          "active": 471,
+          "critical": 17,
+          "recovered": 169,
+          "1M_pop": "8710",
+          "total": 673
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 33
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 1673
+        },
+        "day": "2020-04-17",
+        "time": "2020-04-17T01:30:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-18"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": "+23",
+          "active": 470,
+          "critical": 17,
+          "recovered": 191,
+          "1M_pop": "9008",
+          "total": 696
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 35
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 1673
+        },
+        "day": "2020-04-18",
+        "time": "2020-04-18T15:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-19"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": "+8",
+          "active": 464,
+          "critical": 17,
+          "recovered": 205,
+          "1M_pop": "9111",
+          "total": 704
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 35
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 1673
+        },
+        "day": "2020-04-19",
+        "time": "2020-04-19T15:45:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-20"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": "+4",
+          "active": 433,
+          "critical": 17,
+          "recovered": 248,
+          "1M_pop": "9280",
+          "total": 717
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 36
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 1673
+        },
+        "day": "2020-04-20",
+        "time": "2020-04-20T20:00:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": "+9",
+          "active": 442,
+          "critical": 17,
+          "recovered": 235,
+          "1M_pop": "9228",
+          "total": 713
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 36
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 1673
+        },
+        "day": "2020-04-20",
+        "time": "2020-04-20T19:00:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-21"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": "+4",
+          "active": 432,
+          "critical": 17,
+          "recovered": 248,
+          "1M_pop": "9280",
+          "total": 717
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 37
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 1673
+        },
+        "day": "2020-04-21",
+        "time": "2020-04-21T17:45:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-22"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 398,
+          "critical": 17,
+          "recovered": 282,
+          "1M_pop": "9280",
+          "total": 717
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 37
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 1673
+        },
+        "day": "2020-04-22",
+        "time": "2020-04-22T16:45:07+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-23"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": "+6",
+          "active": 377,
+          "critical": 17,
+          "recovered": 309,
+          "1M_pop": "9357",
+          "total": 723
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 37
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 1673
+        },
+        "day": "2020-04-23",
+        "time": "2020-04-23T16:45:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-24"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 353,
+          "critical": 17,
+          "recovered": 333,
+          "1M_pop": "9357",
+          "total": 723
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 37
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 1673
+        },
+        "day": "2020-04-24",
+        "time": "2020-04-24T16:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-25"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": "+8",
+          "active": 347,
+          "critical": 17,
+          "recovered": 344,
+          "1M_pop": "9461",
+          "total": 731
+        },
+        "deaths": {
+          "new": "+3",
+          "1M_pop": null,
+          "total": 40
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 1673
+        },
+        "day": "2020-04-25",
+        "time": "2020-04-25T21:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": "+8",
+          "active": 358,
+          "critical": 17,
+          "recovered": 333,
+          "1M_pop": "9461",
+          "total": 731
+        },
+        "deaths": {
+          "new": "+3",
+          "1M_pop": null,
+          "total": 40
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 1673
+        },
+        "day": "2020-04-25",
+        "time": "2020-04-25T00:00:11+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-26"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-27"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-28"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": "+5",
+          "active": 318,
+          "critical": 17,
+          "recovered": 385,
+          "1M_pop": "9616",
+          "total": 743
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 40
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 1673
+        },
+        "day": "2020-04-28",
+        "time": "2020-04-28T22:45:30+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": "+7",
+          "active": 354,
+          "critical": 17,
+          "recovered": 344,
+          "1M_pop": "9552",
+          "total": 738
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 40
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 1673
+        },
+        "day": "2020-04-28",
+        "time": "2020-04-28T00:45:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-29"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 304,
+          "critical": 17,
+          "recovered": 398,
+          "1M_pop": "9616",
+          "total": 743
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 41
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 1673
+        },
+        "day": "2020-04-29",
+        "time": "2020-04-29T18:30:11+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-04-30"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 278,
+          "critical": 17,
+          "recovered": 423,
+          "1M_pop": "9616",
+          "total": 743
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 42
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 1673
+        },
+        "day": "2020-04-30",
+        "time": "2020-04-30T17:15:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Andorra",
+      "day": "2020-05-01"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Andorra",
+        "population": null,
+        "cases": {
+          "new": "+2",
+          "active": 235,
+          "critical": 17,
+          "recovered": 468,
+          "1M_pop": "9642",
+          "total": 745
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 42
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 1673
+        },
+        "day": "2020-05-01",
+        "time": "2020-05-01T20:00:05+00:00"
+      }
+    ]
+  }
+]

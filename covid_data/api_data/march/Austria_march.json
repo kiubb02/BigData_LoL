@@ -1,1 +1,4053 @@
-[{"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-03-03"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-03-04"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-03-05"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-03-06"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-03-07"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-03-08"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-03-09"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-03-10"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-03-11"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-03-12"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-03-13"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-03-14"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-03-15"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-03-16"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-03-17"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-03-18"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-03-19"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-03-20"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-03-21"}, "errors": [], "results": 0, "response": []}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-03-22"}, "errors": [], "results": 9, "response": [{"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+572", "active": 3539, "critical": 15, "recovered": 9, "1M_pop": "396", "total": 3564}, "deaths": {"new": "+8", "1M_pop": null, "total": 16}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-22", "time": "2020-03-22T21:15:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+310", "active": 3277, "critical": 15, "recovered": 9, "1M_pop": "367", "total": 3302}, "deaths": {"new": "+8", "1M_pop": null, "total": 16}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-22", "time": "2020-03-22T20:15:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+310", "active": 3284, "critical": 15, "recovered": 9, "1M_pop": "367", "total": 3302}, "deaths": {"new": "+1", "1M_pop": null, "total": 9}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-22", "time": "2020-03-22T15:15:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+297", "active": 3271, "critical": 15, "recovered": 9, "1M_pop": "365", "total": 3289}, "deaths": {"new": "+1", "1M_pop": null, "total": 9}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-22", "time": "2020-03-22T15:00:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+222", "active": 3196, "critical": 15, "recovered": 9, "1M_pop": "357", "total": 3214}, "deaths": {"new": "+1", "1M_pop": null, "total": 9}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-22", "time": "2020-03-22T14:15:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+34", "active": 3008, "critical": 15, "recovered": 9, "1M_pop": "336", "total": 3026}, "deaths": {"new": "+1", "1M_pop": null, "total": 9}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-22", "time": "2020-03-22T12:45:09+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+32", "active": 3007, "critical": 15, "recovered": 9, "1M_pop": "336", "total": 3024}, "deaths": {"new": null, "1M_pop": null, "total": 8}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-22", "time": "2020-03-22T12:15:16+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": null, "active": 2975, "critical": 15, "recovered": 9, "1M_pop": "332", "total": 2992}, "deaths": {"new": null, "1M_pop": null, "total": 8}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-22", "time": "2020-03-22T06:00:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+343", "active": 2975, "critical": 15, "recovered": 9, "1M_pop": "332", "total": 2992}, "deaths": {"new": "+2", "1M_pop": null, "total": 8}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-22", "time": "2020-03-22T03:15:05+00:00"}]}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-03-23"}, "errors": [], "results": 21, "response": [{"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+886", "active": 4438, "critical": 14, "recovered": 9, "1M_pop": "496", "total": 4468}, "deaths": {"new": "+5", "1M_pop": null, "total": 21}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-23", "time": "2020-03-23T21:00:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+724", "active": 4276, "critical": 14, "recovered": 9, "1M_pop": "478", "total": 4306}, "deaths": {"new": "+5", "1M_pop": null, "total": 21}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-23", "time": "2020-03-23T19:30:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+493", "active": 4045, "critical": 14, "recovered": 9, "1M_pop": "452", "total": 4075}, "deaths": {"new": "+5", "1M_pop": null, "total": 21}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-23", "time": "2020-03-23T16:30:07+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+475", "active": 4027, "critical": 14, "recovered": 9, "1M_pop": "450", "total": 4057}, "deaths": {"new": "+5", "1M_pop": null, "total": 21}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-23", "time": "2020-03-23T15:45:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+436", "active": 3988, "critical": 14, "recovered": 9, "1M_pop": "446", "total": 4018}, "deaths": {"new": "+5", "1M_pop": null, "total": 21}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-23", "time": "2020-03-23T15:30:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+395", "active": 3947, "critical": 14, "recovered": 9, "1M_pop": "442", "total": 3977}, "deaths": {"new": "+5", "1M_pop": null, "total": 21}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-23", "time": "2020-03-23T15:00:08+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+385", "active": 3937, "critical": 14, "recovered": 9, "1M_pop": "440", "total": 3967}, "deaths": {"new": "+5", "1M_pop": null, "total": 21}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-23", "time": "2020-03-23T14:30:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+341", "active": 3898, "critical": 14, "recovered": 9, "1M_pop": "436", "total": 3923}, "deaths": {"new": null, "1M_pop": null, "total": 16}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-23", "time": "2020-03-23T14:15:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+283", "active": 3840, "critical": 14, "recovered": 9, "1M_pop": "429", "total": 3865}, "deaths": {"new": null, "1M_pop": null, "total": 16}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-23", "time": "2020-03-23T13:15:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+224", "active": 3781, "critical": 14, "recovered": 9, "1M_pop": "423", "total": 3806}, "deaths": {"new": null, "1M_pop": null, "total": 16}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-23", "time": "2020-03-23T12:45:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+202", "active": 3759, "critical": 14, "recovered": 9, "1M_pop": "420", "total": 3784}, "deaths": {"new": null, "1M_pop": null, "total": 16}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-23", "time": "2020-03-23T11:45:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+177", "active": 3734, "critical": 14, "recovered": 9, "1M_pop": "417", "total": 3759}, "deaths": {"new": null, "1M_pop": null, "total": 16}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-23", "time": "2020-03-23T11:30:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+141", "active": 3698, "critical": 13, "recovered": 9, "1M_pop": "413", "total": 3723}, "deaths": {"new": null, "1M_pop": null, "total": 16}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-23", "time": "2020-03-23T11:00:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+97", "active": 3654, "critical": 13, "recovered": 9, "1M_pop": "408", "total": 3679}, "deaths": {"new": null, "1M_pop": null, "total": 16}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-23", "time": "2020-03-23T10:45:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+87", "active": 3644, "critical": 14, "recovered": 9, "1M_pop": "407", "total": 3669}, "deaths": {"new": null, "1M_pop": null, "total": 16}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-23", "time": "2020-03-23T10:00:07+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+81", "active": 3638, "critical": 15, "recovered": 9, "1M_pop": "407", "total": 3663}, "deaths": {"new": null, "1M_pop": null, "total": 16}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-23", "time": "2020-03-23T09:45:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+49", "active": 3606, "critical": 15, "recovered": 9, "1M_pop": "403", "total": 3631}, "deaths": {"new": null, "1M_pop": null, "total": 16}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-23", "time": "2020-03-23T09:30:07+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+45", "active": 3602, "critical": 15, "recovered": 9, "1M_pop": "403", "total": 3627}, "deaths": {"new": null, "1M_pop": null, "total": 16}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-23", "time": "2020-03-23T08:00:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+37", "active": 3594, "critical": 15, "recovered": 9, "1M_pop": "402", "total": 3619}, "deaths": {"new": null, "1M_pop": null, "total": 16}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-23", "time": "2020-03-23T07:30:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+590", "active": 3557, "critical": 15, "recovered": 9, "1M_pop": "398", "total": 3582}, "deaths": {"new": "+8", "1M_pop": null, "total": 16}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-23", "time": "2020-03-23T07:15:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+588", "active": 3555, "critical": 15, "recovered": 9, "1M_pop": "397", "total": 3580}, "deaths": {"new": "+8", "1M_pop": null, "total": 16}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-23", "time": "2020-03-23T02:00:05+00:00"}]}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-03-24"}, "errors": [], "results": 22, "response": [{"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+663", "active": 5100, "critical": 22, "recovered": 9, "1M_pop": "570", "total": 5137}, "deaths": {"new": "+7", "1M_pop": null, "total": 28}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-24", "time": "2020-03-24T20:00:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+536", "active": 4973, "critical": 22, "recovered": 9, "1M_pop": "556", "total": 5010}, "deaths": {"new": "+7", "1M_pop": null, "total": 28}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-24", "time": "2020-03-24T18:15:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+497", "active": 4934, "critical": 20, "recovered": 9, "1M_pop": "552", "total": 4971}, "deaths": {"new": "+7", "1M_pop": null, "total": 28}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-24", "time": "2020-03-24T15:21:04+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+486", "active": 4923, "critical": 20, "recovered": 9, "1M_pop": "551", "total": 4960}, "deaths": {"new": "+7", "1M_pop": null, "total": 28}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-24", "time": "2020-03-24T14:46:27+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+452", "active": 4892, "critical": 20, "recovered": 9, "1M_pop": "547", "total": 4926}, "deaths": {"new": "+4", "1M_pop": null, "total": 25}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-24", "time": "2020-03-24T14:26:32+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+402", "active": 4842, "critical": 19, "recovered": 9, "1M_pop": "541", "total": 4876}, "deaths": {"new": "+4", "1M_pop": null, "total": 25}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-24", "time": "2020-03-24T13:58:19+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+365", "active": 4805, "critical": 18, "recovered": 9, "1M_pop": "537", "total": 4839}, "deaths": {"new": "+4", "1M_pop": null, "total": 25}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-24", "time": "2020-03-24T13:33:22+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+355", "active": 4795, "critical": 18, "recovered": 9, "1M_pop": "536", "total": 4829}, "deaths": {"new": "+4", "1M_pop": null, "total": 25}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-24", "time": "2020-03-24T12:46:13+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+317", "active": 4757, "critical": 17, "recovered": 9, "1M_pop": "532", "total": 4791}, "deaths": {"new": "+4", "1M_pop": null, "total": 25}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-24", "time": "2020-03-24T12:00:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+308", "active": 4748, "critical": 17, "recovered": 9, "1M_pop": "531", "total": 4782}, "deaths": {"new": "+4", "1M_pop": null, "total": 25}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-24", "time": "2020-03-24T11:30:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+293", "active": 4733, "critical": 17, "recovered": 9, "1M_pop": "529", "total": 4767}, "deaths": {"new": "+4", "1M_pop": null, "total": 25}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-24", "time": "2020-03-24T11:00:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+268", "active": 4708, "critical": 17, "recovered": 9, "1M_pop": "527", "total": 4742}, "deaths": {"new": "+4", "1M_pop": null, "total": 25}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-24", "time": "2020-03-24T10:30:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+268", "active": 4708, "critical": 16, "recovered": 9, "1M_pop": "527", "total": 4742}, "deaths": {"new": "+4", "1M_pop": null, "total": 25}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-24", "time": "2020-03-24T10:15:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+194", "active": 4634, "critical": 16, "recovered": 9, "1M_pop": "518", "total": 4668}, "deaths": {"new": "+4", "1M_pop": null, "total": 25}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-24", "time": "2020-03-24T10:00:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+154", "active": 4594, "critical": 16, "recovered": 9, "1M_pop": "514", "total": 4628}, "deaths": {"new": "+4", "1M_pop": null, "total": 25}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-24", "time": "2020-03-24T09:15:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+104", "active": 4544, "critical": 16, "recovered": 9, "1M_pop": "508", "total": 4578}, "deaths": {"new": "+4", "1M_pop": null, "total": 25}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-24", "time": "2020-03-24T09:00:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+84", "active": 4524, "critical": 16, "recovered": 9, "1M_pop": "506", "total": 4558}, "deaths": {"new": "+4", "1M_pop": null, "total": 25}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-24", "time": "2020-03-24T08:45:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+43", "active": 4483, "critical": 16, "recovered": 9, "1M_pop": "502", "total": 4517}, "deaths": {"new": "+4", "1M_pop": null, "total": 25}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-24", "time": "2020-03-24T08:30:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+43", "active": 4487, "critical": 16, "recovered": 9, "1M_pop": "502", "total": 4517}, "deaths": {"new": null, "1M_pop": null, "total": 21}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-24", "time": "2020-03-24T08:00:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+19", "active": 4463, "critical": 16, "recovered": 9, "1M_pop": "499", "total": 4493}, "deaths": {"new": null, "1M_pop": null, "total": 21}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-24", "time": "2020-03-24T07:45:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+3", "active": 4447, "critical": 16, "recovered": 9, "1M_pop": "497", "total": 4477}, "deaths": {"new": null, "1M_pop": null, "total": 21}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-24", "time": "2020-03-24T07:15:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+892", "active": 4444, "critical": 14, "recovered": 9, "1M_pop": "497", "total": 4474}, "deaths": {"new": "+5", "1M_pop": null, "total": 21}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-24", "time": "2020-03-24T06:30:05+00:00"}]}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-03-25"}, "errors": [], "results": 12, "response": [{"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+277", "active": 5521, "critical": 28, "recovered": 9, "1M_pop": "617", "total": 5560}, "deaths": {"new": "+2", "1M_pop": null, "total": 30}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-25", "time": "2020-03-25T14:00:07+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+233", "active": 5477, "critical": 26, "recovered": 9, "1M_pop": "612", "total": 5516}, "deaths": {"new": "+2", "1M_pop": null, "total": 30}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-25", "time": "2020-03-25T13:30:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+216", "active": 5460, "critical": 26, "recovered": 9, "1M_pop": "611", "total": 5499}, "deaths": {"new": "+2", "1M_pop": null, "total": 30}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-25", "time": "2020-03-25T12:45:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+211", "active": 5455, "critical": 26, "recovered": 9, "1M_pop": "610", "total": 5494}, "deaths": {"new": "+2", "1M_pop": null, "total": 30}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-25", "time": "2020-03-25T11:00:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+202", "active": 5446, "critical": 26, "recovered": 9, "1M_pop": "609", "total": 5485}, "deaths": {"new": "+2", "1M_pop": null, "total": 30}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-25", "time": "2020-03-25T10:15:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+197", "active": 5441, "critical": 26, "recovered": 9, "1M_pop": "608", "total": 5480}, "deaths": {"new": "+2", "1M_pop": null, "total": 30}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-25", "time": "2020-03-25T09:45:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+165", "active": 5409, "critical": 26, "recovered": 9, "1M_pop": "605", "total": 5448}, "deaths": {"new": "+2", "1M_pop": null, "total": 30}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-25", "time": "2020-03-25T09:30:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+144", "active": 5388, "critical": 26, "recovered": 9, "1M_pop": "603", "total": 5427}, "deaths": {"new": "+2", "1M_pop": null, "total": 30}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-25", "time": "2020-03-25T08:45:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+111", "active": 5355, "critical": 26, "recovered": 9, "1M_pop": "599", "total": 5394}, "deaths": {"new": "+2", "1M_pop": null, "total": 30}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-25", "time": "2020-03-25T08:15:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+85", "active": 5329, "critical": 26, "recovered": 9, "1M_pop": "596", "total": 5368}, "deaths": {"new": "+2", "1M_pop": null, "total": 30}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-25", "time": "2020-03-25T08:00:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+32", "active": 5276, "critical": 26, "recovered": 9, "1M_pop": "590", "total": 5315}, "deaths": {"new": "+2", "1M_pop": null, "total": 30}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-25", "time": "2020-03-25T07:45:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+809", "active": 5246, "critical": 22, "recovered": 9, "1M_pop": "587", "total": 5283}, "deaths": {"new": "+7", "1M_pop": null, "total": 28}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-25", "time": "2020-03-25T07:30:05+00:00"}]}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-03-26"}, "errors": [], "results": 11, "response": [{"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+1310", "active": 6737, "critical": 96, "recovered": 112, "1M_pop": "766", "total": 6898}, "deaths": {"new": "+18", "1M_pop": null, "total": 49}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-26", "time": "2020-03-26T23:00:14+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+1310", "active": 6737, "critical": 28, "recovered": 112, "1M_pop": "766", "total": 6898}, "deaths": {"new": "+18", "1M_pop": null, "total": 49}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-26", "time": "2020-03-26T22:45:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+1259", "active": 6686, "critical": 28, "recovered": 112, "1M_pop": "760", "total": 6847}, "deaths": {"new": "+18", "1M_pop": null, "total": 49}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-26", "time": "2020-03-26T22:30:07+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+1228", "active": 6655, "critical": 28, "recovered": 112, "1M_pop": "757", "total": 6816}, "deaths": {"new": "+18", "1M_pop": null, "total": 49}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-26", "time": "2020-03-26T19:00:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+1115", "active": 6542, "critical": 28, "recovered": 112, "1M_pop": "744", "total": 6703}, "deaths": {"new": "+18", "1M_pop": null, "total": 49}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-26", "time": "2020-03-26T18:45:10+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+810", "active": 6237, "critical": 28, "recovered": 112, "1M_pop": "710", "total": 6398}, "deaths": {"new": "+18", "1M_pop": null, "total": 49}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-26", "time": "2020-03-26T17:15:09+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+413", "active": 5847, "critical": 28, "recovered": 112, "1M_pop": "666", "total": 6001}, "deaths": {"new": "+11", "1M_pop": null, "total": 42}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-26", "time": "2020-03-26T14:15:08+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+413", "active": 5950, "critical": 28, "recovered": 9, "1M_pop": "666", "total": 6001}, "deaths": {"new": "+11", "1M_pop": null, "total": 42}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-26", "time": "2020-03-26T11:00:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+300", "active": 5845, "critical": 28, "recovered": 9, "1M_pop": "654", "total": 5888}, "deaths": {"new": "+3", "1M_pop": null, "total": 34}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-26", "time": "2020-03-26T09:00:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+305", "active": 5548, "critical": 28, "recovered": 9, "1M_pop": "620", "total": 5588}, "deaths": {"new": "+3", "1M_pop": null, "total": 31}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-26", "time": "2020-03-26T07:15:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+305", "active": 5549, "critical": 28, "recovered": 9, "1M_pop": "620", "total": 5588}, "deaths": {"new": "+2", "1M_pop": null, "total": 30}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-26", "time": "2020-03-26T03:15:05+00:00"}]}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-03-27"}, "errors": [], "results": 15, "response": [{"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+748", "active": 7374, "critical": 128, "recovered": 225, "1M_pop": "850", "total": 7657}, "deaths": {"new": "+9", "1M_pop": null, "total": 58}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-27", "time": "2020-03-27T23:30:03+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+733", "active": 7359, "critical": 128, "recovered": 225, "1M_pop": "849", "total": 7642}, "deaths": {"new": "+9", "1M_pop": null, "total": 58}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-27", "time": "2020-03-27T19:15:03+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+701", "active": 7327, "critical": 128, "recovered": 225, "1M_pop": "845", "total": 7610}, "deaths": {"new": "+9", "1M_pop": null, "total": 58}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-27", "time": "2020-03-27T18:30:04+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+648", "active": 7274, "critical": 128, "recovered": 225, "1M_pop": "839", "total": 7557}, "deaths": {"new": "+9", "1M_pop": null, "total": 58}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-27", "time": "2020-03-27T17:15:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+591", "active": 7217, "critical": 128, "recovered": 225, "1M_pop": "833", "total": 7500}, "deaths": {"new": "+9", "1M_pop": null, "total": 58}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-27", "time": "2020-03-27T16:15:08+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+532", "active": 7158, "critical": 128, "recovered": 225, "1M_pop": "826", "total": 7441}, "deaths": {"new": "+9", "1M_pop": null, "total": 58}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-27", "time": "2020-03-27T15:30:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+484", "active": 7110, "critical": 128, "recovered": 225, "1M_pop": "821", "total": 7393}, "deaths": {"new": "+9", "1M_pop": null, "total": 58}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-27", "time": "2020-03-27T14:45:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+408", "active": 7034, "critical": 128, "recovered": 225, "1M_pop": "812", "total": 7317}, "deaths": {"new": "+9", "1M_pop": null, "total": 58}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-27", "time": "2020-03-27T13:00:19+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+360", "active": 6986, "critical": 96, "recovered": 225, "1M_pop": "807", "total": 7269}, "deaths": {"new": "+9", "1M_pop": null, "total": 58}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-27", "time": "2020-03-27T12:00:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+287", "active": 6913, "critical": 96, "recovered": 225, "1M_pop": "799", "total": 7196}, "deaths": {"new": "+9", "1M_pop": null, "total": 58}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-27", "time": "2020-03-27T11:15:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+220", "active": 6846, "critical": 96, "recovered": 225, "1M_pop": "792", "total": 7129}, "deaths": {"new": "+9", "1M_pop": null, "total": 58}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-27", "time": "2020-03-27T10:00:16+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+220", "active": 6968, "critical": 96, "recovered": 112, "1M_pop": "792", "total": 7129}, "deaths": {"new": null, "1M_pop": null, "total": 49}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-27", "time": "2020-03-27T09:15:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+120", "active": 6868, "critical": 96, "recovered": 112, "1M_pop": "780", "total": 7029}, "deaths": {"new": null, "1M_pop": null, "total": 49}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-27", "time": "2020-03-27T09:00:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+53", "active": 6801, "critical": 96, "recovered": 112, "1M_pop": "773", "total": 6962}, "deaths": {"new": null, "1M_pop": null, "total": 49}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-27", "time": "2020-03-27T08:00:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+1321", "active": 6748, "critical": 96, "recovered": 112, "1M_pop": "767", "total": 6909}, "deaths": {"new": "+18", "1M_pop": null, "total": 49}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-27", "time": "2020-03-27T07:15:06+00:00"}]}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-03-28"}, "errors": [], "results": 7, "response": [{"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+491", "active": 7895, "critical": 128, "recovered": 225, "1M_pop": "909", "total": 8188}, "deaths": {"new": "+10", "1M_pop": null, "total": 68}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-28", "time": "2020-03-28T22:15:04+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+425", "active": 7829, "critical": 128, "recovered": 225, "1M_pop": "902", "total": 8122}, "deaths": {"new": "+10", "1M_pop": null, "total": 68}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-28", "time": "2020-03-28T18:15:04+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+333", "active": 7737, "critical": 128, "recovered": 225, "1M_pop": "892", "total": 8030}, "deaths": {"new": "+10", "1M_pop": null, "total": 68}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-28", "time": "2020-03-28T17:15:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+267", "active": 7671, "critical": 128, "recovered": 225, "1M_pop": "884", "total": 7964}, "deaths": {"new": "+10", "1M_pop": null, "total": 68}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-28", "time": "2020-03-28T14:00:04+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+15", "active": 7419, "critical": 128, "recovered": 225, "1M_pop": "856", "total": 7712}, "deaths": {"new": "+10", "1M_pop": null, "total": 68}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-28", "time": "2020-03-28T12:30:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+15", "active": 7429, "critical": 128, "recovered": 225, "1M_pop": "856", "total": 7712}, "deaths": {"new": null, "1M_pop": null, "total": 58}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-28", "time": "2020-03-28T09:30:04+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+788", "active": 7414, "critical": 128, "recovered": 225, "1M_pop": "855", "total": 7697}, "deaths": {"new": "+9", "1M_pop": null, "total": 58}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-28", "time": "2020-03-28T08:00:04+00:00"}]}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-03-29"}, "errors": [], "results": 15, "response": [{"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+503", "active": 8209, "critical": 187, "recovered": 479, "1M_pop": "974", "total": 8774}, "deaths": {"new": "+18", "1M_pop": null, "total": 86}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-29", "time": "2020-03-29T22:45:04+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+472", "active": 8178, "critical": 187, "recovered": 479, "1M_pop": "971", "total": 8743}, "deaths": {"new": "+18", "1M_pop": null, "total": 86}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-29", "time": "2020-03-29T21:00:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+440", "active": 8146, "critical": 187, "recovered": 479, "1M_pop": "967", "total": 8711}, "deaths": {"new": "+18", "1M_pop": null, "total": 86}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-29", "time": "2020-03-29T19:15:04+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+401", "active": 8107, "critical": 187, "recovered": 479, "1M_pop": "963", "total": 8672}, "deaths": {"new": "+18", "1M_pop": null, "total": 86}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-29", "time": "2020-03-29T17:30:04+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+377", "active": 8083, "critical": 187, "recovered": 479, "1M_pop": "960", "total": 8648}, "deaths": {"new": "+18", "1M_pop": null, "total": 86}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-29", "time": "2020-03-29T16:30:04+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+265", "active": 7971, "critical": 187, "recovered": 479, "1M_pop": "948", "total": 8536}, "deaths": {"new": "+18", "1M_pop": null, "total": 86}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-29", "time": "2020-03-29T15:00:04+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+215", "active": 7921, "critical": 187, "recovered": 479, "1M_pop": "942", "total": 8486}, "deaths": {"new": "+18", "1M_pop": null, "total": 86}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-29", "time": "2020-03-29T13:00:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+179", "active": 7885, "critical": 187, "recovered": 479, "1M_pop": "938", "total": 8450}, "deaths": {"new": "+18", "1M_pop": null, "total": 86}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-29", "time": "2020-03-29T12:00:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+140", "active": 7846, "critical": 187, "recovered": 479, "1M_pop": "934", "total": 8411}, "deaths": {"new": "+18", "1M_pop": null, "total": 86}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-29", "time": "2020-03-29T11:00:04+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+124", "active": 7830, "critical": 187, "recovered": 479, "1M_pop": "932", "total": 8395}, "deaths": {"new": "+18", "1M_pop": null, "total": 86}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-29", "time": "2020-03-29T10:00:04+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+124", "active": 8084, "critical": 187, "recovered": 225, "1M_pop": "932", "total": 8395}, "deaths": {"new": "+18", "1M_pop": null, "total": 86}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-29", "time": "2020-03-29T09:45:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+124", "active": 8102, "critical": 135, "recovered": 225, "1M_pop": "932", "total": 8395}, "deaths": {"new": null, "1M_pop": null, "total": 68}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-29", "time": "2020-03-29T09:30:04+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+75", "active": 8053, "critical": 135, "recovered": 225, "1M_pop": "927", "total": 8346}, "deaths": {"new": null, "1M_pop": null, "total": 68}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-29", "time": "2020-03-29T09:15:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+20", "active": 7998, "critical": 135, "recovered": 225, "1M_pop": "921", "total": 8291}, "deaths": {"new": null, "1M_pop": null, "total": 68}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-29", "time": "2020-03-29T08:15:04+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+574", "active": 7978, "critical": 135, "recovered": 225, "1M_pop": "918", "total": 8271}, "deaths": {"new": "+10", "1M_pop": null, "total": 68}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-29", "time": "2020-03-29T08:00:04+00:00"}]}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-03-30"}, "errors": [], "results": 12, "response": [{"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+809", "active": 8853, "critical": 193, "recovered": 636, "1M_pop": "1066", "total": 9597}, "deaths": {"new": "+22", "1M_pop": null, "total": 108}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-30", "time": "2020-03-30T22:45:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+753", "active": 8797, "critical": 193, "recovered": 636, "1M_pop": "1059", "total": 9541}, "deaths": {"new": "+22", "1M_pop": null, "total": 108}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-30", "time": "2020-03-30T18:45:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+732", "active": 8776, "critical": 193, "recovered": 636, "1M_pop": "1057", "total": 9520}, "deaths": {"new": "+22", "1M_pop": null, "total": 108}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-30", "time": "2020-03-30T17:00:23+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+666", "active": 8710, "critical": 193, "recovered": 636, "1M_pop": "1050", "total": 9454}, "deaths": {"new": "+22", "1M_pop": null, "total": 108}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-30", "time": "2020-03-30T16:00:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+589", "active": 8633, "critical": 193, "recovered": 636, "1M_pop": "1041", "total": 9377}, "deaths": {"new": "+22", "1M_pop": null, "total": 108}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-30", "time": "2020-03-30T15:30:15+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+412", "active": 8456, "critical": 193, "recovered": 636, "1M_pop": "1021", "total": 9200}, "deaths": {"new": "+22", "1M_pop": null, "total": 108}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-30", "time": "2020-03-30T13:00:04+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+315", "active": 8359, "critical": 193, "recovered": 636, "1M_pop": "1011", "total": 9103}, "deaths": {"new": "+22", "1M_pop": null, "total": 108}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-30", "time": "2020-03-30T11:00:04+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+315", "active": 8538, "critical": 187, "recovered": 479, "1M_pop": "1011", "total": 9103}, "deaths": {"new": null, "1M_pop": null, "total": 86}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-30", "time": "2020-03-30T10:30:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+170", "active": 8393, "critical": 187, "recovered": 479, "1M_pop": "995", "total": 8958}, "deaths": {"new": null, "1M_pop": null, "total": 86}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-30", "time": "2020-03-30T10:00:04+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+79", "active": 8302, "critical": 187, "recovered": 479, "1M_pop": "985", "total": 8867}, "deaths": {"new": null, "1M_pop": null, "total": 86}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-30", "time": "2020-03-30T08:00:04+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+25", "active": 8248, "critical": 187, "recovered": 479, "1M_pop": "979", "total": 8813}, "deaths": {"new": null, "1M_pop": null, "total": 86}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-30", "time": "2020-03-30T07:15:04+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+517", "active": 8223, "critical": 187, "recovered": 479, "1M_pop": "976", "total": 8788}, "deaths": {"new": "+18", "1M_pop": null, "total": 86}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-30", "time": "2020-03-30T06:45:05+00:00"}]}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-03-31"}, "errors": [], "results": 16, "response": [{"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+504", "active": 8899, "critical": 198, "recovered": 1095, "1M_pop": "1124", "total": 10122}, "deaths": {"new": "+20", "1M_pop": null, "total": 128}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-31", "time": "2020-03-31T21:15:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+491", "active": 8886, "critical": 198, "recovered": 1095, "1M_pop": "1122", "total": 10109}, "deaths": {"new": "+20", "1M_pop": null, "total": 128}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-31", "time": "2020-03-31T18:00:06+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+470", "active": 8865, "critical": 198, "recovered": 1095, "1M_pop": "1120", "total": 10088}, "deaths": {"new": "+20", "1M_pop": null, "total": 128}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-31", "time": "2020-03-31T17:00:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+420", "active": 8815, "critical": 198, "recovered": 1095, "1M_pop": "1115", "total": 10038}, "deaths": {"new": "+20", "1M_pop": null, "total": 128}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-31", "time": "2020-03-31T16:02:35+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+401", "active": 8796, "critical": 198, "recovered": 1095, "1M_pop": "1112", "total": 10019}, "deaths": {"new": "+20", "1M_pop": null, "total": 128}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-31", "time": "2020-03-31T15:02:34+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+356", "active": 8751, "critical": 198, "recovered": 1095, "1M_pop": "1107", "total": 9974}, "deaths": {"new": "+20", "1M_pop": null, "total": 128}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-31", "time": "2020-03-31T13:47:35+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+302", "active": 8697, "critical": 198, "recovered": 1095, "1M_pop": "1101", "total": 9920}, "deaths": {"new": "+20", "1M_pop": null, "total": 128}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-31", "time": "2020-03-31T13:17:34+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+258", "active": 8653, "critical": 198, "recovered": 1095, "1M_pop": "1097", "total": 9876}, "deaths": {"new": "+20", "1M_pop": null, "total": 128}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-31", "time": "2020-03-31T12:02:34+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+233", "active": 8628, "critical": 198, "recovered": 1095, "1M_pop": "1094", "total": 9851}, "deaths": {"new": "+20", "1M_pop": null, "total": 128}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-31", "time": "2020-03-31T11:15:04+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+207", "active": 8602, "critical": 198, "recovered": 1095, "1M_pop": "1091", "total": 9825}, "deaths": {"new": "+20", "1M_pop": null, "total": 128}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-31", "time": "2020-03-31T10:00:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+154", "active": 8549, "critical": 198, "recovered": 1095, "1M_pop": "1085", "total": 9772}, "deaths": {"new": "+20", "1M_pop": null, "total": 128}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-31", "time": "2020-03-31T09:45:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+154", "active": 9028, "critical": 198, "recovered": 636, "1M_pop": "1085", "total": 9772}, "deaths": {"new": null, "1M_pop": null, "total": 108}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-31", "time": "2020-03-31T08:45:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+154", "active": 9028, "critical": 193, "recovered": 636, "1M_pop": "1085", "total": 9772}, "deaths": {"new": null, "1M_pop": null, "total": 108}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-31", "time": "2020-03-31T08:30:04+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+87", "active": 8961, "critical": 193, "recovered": 636, "1M_pop": "1078", "total": 9705}, "deaths": {"new": null, "1M_pop": null, "total": 108}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-31", "time": "2020-03-31T08:00:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+16", "active": 8890, "critical": 193, "recovered": 636, "1M_pop": "1070", "total": 9634}, "deaths": {"new": null, "1M_pop": null, "total": 108}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-31", "time": "2020-03-31T07:00:04+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+830", "active": 8874, "critical": 193, "recovered": 636, "1M_pop": "1068", "total": 9618}, "deaths": {"new": "+22", "1M_pop": null, "total": 108}, "tests": {"1M_pop": null, "total": null}, "day": "2020-03-31", "time": "2020-03-31T06:15:04+00:00"}]}, {"get": "history", "parameters": {"country": "Austria", "day": "2020-04-01"}, "errors": [], "results": 15, "response": [{"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+488", "active": 9086, "critical": 215, "recovered": 1436, "1M_pop": "1184", "total": 10668}, "deaths": {"new": "+18", "1M_pop": null, "total": 146}, "tests": {"1M_pop": null, "total": null}, "day": "2020-04-01", "time": "2020-04-01T21:15:03+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+483", "active": 9081, "critical": 215, "recovered": 1436, "1M_pop": "1184", "total": 10663}, "deaths": {"new": "+18", "1M_pop": null, "total": 146}, "tests": {"1M_pop": null, "total": null}, "day": "2020-04-01", "time": "2020-04-01T19:45:04+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+405", "active": 9003, "critical": 215, "recovered": 1436, "1M_pop": "1175", "total": 10585}, "deaths": {"new": "+18", "1M_pop": null, "total": 146}, "tests": {"1M_pop": null, "total": null}, "day": "2020-04-01", "time": "2020-04-01T18:00:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+373", "active": 8971, "critical": 215, "recovered": 1436, "1M_pop": "1172", "total": 10553}, "deaths": {"new": "+18", "1M_pop": null, "total": 146}, "tests": {"1M_pop": null, "total": null}, "day": "2020-04-01", "time": "2020-04-01T16:15:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+321", "active": 8919, "critical": 215, "recovered": 1436, "1M_pop": "1166", "total": 10501}, "deaths": {"new": "+18", "1M_pop": null, "total": 146}, "tests": {"1M_pop": null, "total": null}, "day": "2020-04-01", "time": "2020-04-01T15:00:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+302", "active": 8900, "critical": 215, "recovered": 1436, "1M_pop": "1164", "total": 10482}, "deaths": {"new": "+18", "1M_pop": null, "total": 146}, "tests": {"1M_pop": null, "total": null}, "day": "2020-04-01", "time": "2020-04-01T14:15:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+264", "active": 8862, "critical": 215, "recovered": 1436, "1M_pop": "1160", "total": 10444}, "deaths": {"new": "+18", "1M_pop": null, "total": 146}, "tests": {"1M_pop": null, "total": null}, "day": "2020-04-01", "time": "2020-04-01T13:15:04+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+238", "active": 8836, "critical": 215, "recovered": 1436, "1M_pop": "1157", "total": 10418}, "deaths": {"new": "+18", "1M_pop": null, "total": 146}, "tests": {"1M_pop": null, "total": null}, "day": "2020-04-01", "time": "2020-04-01T12:00:04+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+238", "active": 9177, "critical": 215, "recovered": 1095, "1M_pop": "1157", "total": 10418}, "deaths": {"new": "+18", "1M_pop": null, "total": 146}, "tests": {"1M_pop": null, "total": null}, "day": "2020-04-01", "time": "2020-04-01T11:15:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+207", "active": 9146, "critical": 215, "recovered": 1095, "1M_pop": "1153", "total": 10387}, "deaths": {"new": "+18", "1M_pop": null, "total": 146}, "tests": {"1M_pop": null, "total": null}, "day": "2020-04-01", "time": "2020-04-01T11:00:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+186", "active": 9125, "critical": 215, "recovered": 1095, "1M_pop": "1151", "total": 10366}, "deaths": {"new": "+18", "1M_pop": null, "total": 146}, "tests": {"1M_pop": null, "total": null}, "day": "2020-04-01", "time": "2020-04-01T10:15:15+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+186", "active": 9143, "critical": 198, "recovered": 1095, "1M_pop": "1151", "total": 10366}, "deaths": {"new": null, "1M_pop": null, "total": 128}, "tests": {"1M_pop": null, "total": null}, "day": "2020-04-01", "time": "2020-04-01T09:15:04+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+118", "active": 9075, "critical": 198, "recovered": 1095, "1M_pop": "1143", "total": 10298}, "deaths": {"new": null, "1M_pop": null, "total": 128}, "tests": {"1M_pop": null, "total": null}, "day": "2020-04-01", "time": "2020-04-01T08:00:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+12", "active": 8969, "critical": 198, "recovered": 1095, "1M_pop": "1132", "total": 10192}, "deaths": {"new": null, "1M_pop": null, "total": 128}, "tests": {"1M_pop": null, "total": null}, "day": "2020-04-01", "time": "2020-04-01T07:00:05+00:00"}, {"continent": "Europe", "country": "Austria", "population": null, "cases": {"new": "+562", "active": 8957, "critical": 198, "recovered": 1095, "1M_pop": "1130", "total": 10180}, "deaths": {"new": "+20", "1M_pop": null, "total": 128}, "tests": {"1M_pop": null, "total": null}, "day": "2020-04-01", "time": "2020-04-01T06:00:04+00:00"}]}]
+[
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-01"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-02"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-03"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-04"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-05"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-06"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-07"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-08"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-09"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-10"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-11"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-12"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-13"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-14"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-15"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-16"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-17"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-18"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-19"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-20"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-21"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-22"
+    },
+    "errors": [],
+    "results": 9,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+572",
+          "active": 3539,
+          "critical": 15,
+          "recovered": 9,
+          "1M_pop": "396",
+          "total": 3564
+        },
+        "deaths": {
+          "new": "+8",
+          "1M_pop": null,
+          "total": 16
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-22",
+        "time": "2020-03-22T21:15:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+310",
+          "active": 3277,
+          "critical": 15,
+          "recovered": 9,
+          "1M_pop": "367",
+          "total": 3302
+        },
+        "deaths": {
+          "new": "+8",
+          "1M_pop": null,
+          "total": 16
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-22",
+        "time": "2020-03-22T20:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+310",
+          "active": 3284,
+          "critical": 15,
+          "recovered": 9,
+          "1M_pop": "367",
+          "total": 3302
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 9
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-22",
+        "time": "2020-03-22T15:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+297",
+          "active": 3271,
+          "critical": 15,
+          "recovered": 9,
+          "1M_pop": "365",
+          "total": 3289
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 9
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-22",
+        "time": "2020-03-22T15:00:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+222",
+          "active": 3196,
+          "critical": 15,
+          "recovered": 9,
+          "1M_pop": "357",
+          "total": 3214
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 9
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-22",
+        "time": "2020-03-22T14:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+34",
+          "active": 3008,
+          "critical": 15,
+          "recovered": 9,
+          "1M_pop": "336",
+          "total": 3026
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 9
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-22",
+        "time": "2020-03-22T12:45:09+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+32",
+          "active": 3007,
+          "critical": 15,
+          "recovered": 9,
+          "1M_pop": "336",
+          "total": 3024
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 8
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-22",
+        "time": "2020-03-22T12:15:16+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 2975,
+          "critical": 15,
+          "recovered": 9,
+          "1M_pop": "332",
+          "total": 2992
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 8
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-22",
+        "time": "2020-03-22T06:00:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+343",
+          "active": 2975,
+          "critical": 15,
+          "recovered": 9,
+          "1M_pop": "332",
+          "total": 2992
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 8
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-22",
+        "time": "2020-03-22T03:15:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-23"
+    },
+    "errors": [],
+    "results": 21,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+886",
+          "active": 4438,
+          "critical": 14,
+          "recovered": 9,
+          "1M_pop": "496",
+          "total": 4468
+        },
+        "deaths": {
+          "new": "+5",
+          "1M_pop": null,
+          "total": 21
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T21:00:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+724",
+          "active": 4276,
+          "critical": 14,
+          "recovered": 9,
+          "1M_pop": "478",
+          "total": 4306
+        },
+        "deaths": {
+          "new": "+5",
+          "1M_pop": null,
+          "total": 21
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T19:30:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+493",
+          "active": 4045,
+          "critical": 14,
+          "recovered": 9,
+          "1M_pop": "452",
+          "total": 4075
+        },
+        "deaths": {
+          "new": "+5",
+          "1M_pop": null,
+          "total": 21
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T16:30:07+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+475",
+          "active": 4027,
+          "critical": 14,
+          "recovered": 9,
+          "1M_pop": "450",
+          "total": 4057
+        },
+        "deaths": {
+          "new": "+5",
+          "1M_pop": null,
+          "total": 21
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T15:45:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+436",
+          "active": 3988,
+          "critical": 14,
+          "recovered": 9,
+          "1M_pop": "446",
+          "total": 4018
+        },
+        "deaths": {
+          "new": "+5",
+          "1M_pop": null,
+          "total": 21
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T15:30:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+395",
+          "active": 3947,
+          "critical": 14,
+          "recovered": 9,
+          "1M_pop": "442",
+          "total": 3977
+        },
+        "deaths": {
+          "new": "+5",
+          "1M_pop": null,
+          "total": 21
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T15:00:08+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+385",
+          "active": 3937,
+          "critical": 14,
+          "recovered": 9,
+          "1M_pop": "440",
+          "total": 3967
+        },
+        "deaths": {
+          "new": "+5",
+          "1M_pop": null,
+          "total": 21
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T14:30:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+341",
+          "active": 3898,
+          "critical": 14,
+          "recovered": 9,
+          "1M_pop": "436",
+          "total": 3923
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 16
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T14:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+283",
+          "active": 3840,
+          "critical": 14,
+          "recovered": 9,
+          "1M_pop": "429",
+          "total": 3865
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 16
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T13:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+224",
+          "active": 3781,
+          "critical": 14,
+          "recovered": 9,
+          "1M_pop": "423",
+          "total": 3806
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 16
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T12:45:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+202",
+          "active": 3759,
+          "critical": 14,
+          "recovered": 9,
+          "1M_pop": "420",
+          "total": 3784
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 16
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T11:45:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+177",
+          "active": 3734,
+          "critical": 14,
+          "recovered": 9,
+          "1M_pop": "417",
+          "total": 3759
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 16
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T11:30:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+141",
+          "active": 3698,
+          "critical": 13,
+          "recovered": 9,
+          "1M_pop": "413",
+          "total": 3723
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 16
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T11:00:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+97",
+          "active": 3654,
+          "critical": 13,
+          "recovered": 9,
+          "1M_pop": "408",
+          "total": 3679
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 16
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T10:45:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+87",
+          "active": 3644,
+          "critical": 14,
+          "recovered": 9,
+          "1M_pop": "407",
+          "total": 3669
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 16
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T10:00:07+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+81",
+          "active": 3638,
+          "critical": 15,
+          "recovered": 9,
+          "1M_pop": "407",
+          "total": 3663
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 16
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T09:45:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+49",
+          "active": 3606,
+          "critical": 15,
+          "recovered": 9,
+          "1M_pop": "403",
+          "total": 3631
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 16
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T09:30:07+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+45",
+          "active": 3602,
+          "critical": 15,
+          "recovered": 9,
+          "1M_pop": "403",
+          "total": 3627
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 16
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T08:00:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+37",
+          "active": 3594,
+          "critical": 15,
+          "recovered": 9,
+          "1M_pop": "402",
+          "total": 3619
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 16
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T07:30:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+590",
+          "active": 3557,
+          "critical": 15,
+          "recovered": 9,
+          "1M_pop": "398",
+          "total": 3582
+        },
+        "deaths": {
+          "new": "+8",
+          "1M_pop": null,
+          "total": 16
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T07:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+588",
+          "active": 3555,
+          "critical": 15,
+          "recovered": 9,
+          "1M_pop": "397",
+          "total": 3580
+        },
+        "deaths": {
+          "new": "+8",
+          "1M_pop": null,
+          "total": 16
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T02:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-24"
+    },
+    "errors": [],
+    "results": 22,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+663",
+          "active": 5100,
+          "critical": 22,
+          "recovered": 9,
+          "1M_pop": "570",
+          "total": 5137
+        },
+        "deaths": {
+          "new": "+7",
+          "1M_pop": null,
+          "total": 28
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T20:00:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+536",
+          "active": 4973,
+          "critical": 22,
+          "recovered": 9,
+          "1M_pop": "556",
+          "total": 5010
+        },
+        "deaths": {
+          "new": "+7",
+          "1M_pop": null,
+          "total": 28
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T18:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+497",
+          "active": 4934,
+          "critical": 20,
+          "recovered": 9,
+          "1M_pop": "552",
+          "total": 4971
+        },
+        "deaths": {
+          "new": "+7",
+          "1M_pop": null,
+          "total": 28
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T15:21:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+486",
+          "active": 4923,
+          "critical": 20,
+          "recovered": 9,
+          "1M_pop": "551",
+          "total": 4960
+        },
+        "deaths": {
+          "new": "+7",
+          "1M_pop": null,
+          "total": 28
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T14:46:27+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+452",
+          "active": 4892,
+          "critical": 20,
+          "recovered": 9,
+          "1M_pop": "547",
+          "total": 4926
+        },
+        "deaths": {
+          "new": "+4",
+          "1M_pop": null,
+          "total": 25
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T14:26:32+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+402",
+          "active": 4842,
+          "critical": 19,
+          "recovered": 9,
+          "1M_pop": "541",
+          "total": 4876
+        },
+        "deaths": {
+          "new": "+4",
+          "1M_pop": null,
+          "total": 25
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T13:58:19+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+365",
+          "active": 4805,
+          "critical": 18,
+          "recovered": 9,
+          "1M_pop": "537",
+          "total": 4839
+        },
+        "deaths": {
+          "new": "+4",
+          "1M_pop": null,
+          "total": 25
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T13:33:22+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+355",
+          "active": 4795,
+          "critical": 18,
+          "recovered": 9,
+          "1M_pop": "536",
+          "total": 4829
+        },
+        "deaths": {
+          "new": "+4",
+          "1M_pop": null,
+          "total": 25
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T12:46:13+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+317",
+          "active": 4757,
+          "critical": 17,
+          "recovered": 9,
+          "1M_pop": "532",
+          "total": 4791
+        },
+        "deaths": {
+          "new": "+4",
+          "1M_pop": null,
+          "total": 25
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T12:00:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+308",
+          "active": 4748,
+          "critical": 17,
+          "recovered": 9,
+          "1M_pop": "531",
+          "total": 4782
+        },
+        "deaths": {
+          "new": "+4",
+          "1M_pop": null,
+          "total": 25
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T11:30:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+293",
+          "active": 4733,
+          "critical": 17,
+          "recovered": 9,
+          "1M_pop": "529",
+          "total": 4767
+        },
+        "deaths": {
+          "new": "+4",
+          "1M_pop": null,
+          "total": 25
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T11:00:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+268",
+          "active": 4708,
+          "critical": 17,
+          "recovered": 9,
+          "1M_pop": "527",
+          "total": 4742
+        },
+        "deaths": {
+          "new": "+4",
+          "1M_pop": null,
+          "total": 25
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T10:30:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+268",
+          "active": 4708,
+          "critical": 16,
+          "recovered": 9,
+          "1M_pop": "527",
+          "total": 4742
+        },
+        "deaths": {
+          "new": "+4",
+          "1M_pop": null,
+          "total": 25
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T10:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+194",
+          "active": 4634,
+          "critical": 16,
+          "recovered": 9,
+          "1M_pop": "518",
+          "total": 4668
+        },
+        "deaths": {
+          "new": "+4",
+          "1M_pop": null,
+          "total": 25
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T10:00:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+154",
+          "active": 4594,
+          "critical": 16,
+          "recovered": 9,
+          "1M_pop": "514",
+          "total": 4628
+        },
+        "deaths": {
+          "new": "+4",
+          "1M_pop": null,
+          "total": 25
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T09:15:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+104",
+          "active": 4544,
+          "critical": 16,
+          "recovered": 9,
+          "1M_pop": "508",
+          "total": 4578
+        },
+        "deaths": {
+          "new": "+4",
+          "1M_pop": null,
+          "total": 25
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T09:00:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+84",
+          "active": 4524,
+          "critical": 16,
+          "recovered": 9,
+          "1M_pop": "506",
+          "total": 4558
+        },
+        "deaths": {
+          "new": "+4",
+          "1M_pop": null,
+          "total": 25
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T08:45:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+43",
+          "active": 4483,
+          "critical": 16,
+          "recovered": 9,
+          "1M_pop": "502",
+          "total": 4517
+        },
+        "deaths": {
+          "new": "+4",
+          "1M_pop": null,
+          "total": 25
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T08:30:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+43",
+          "active": 4487,
+          "critical": 16,
+          "recovered": 9,
+          "1M_pop": "502",
+          "total": 4517
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 21
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T08:00:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+19",
+          "active": 4463,
+          "critical": 16,
+          "recovered": 9,
+          "1M_pop": "499",
+          "total": 4493
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 21
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T07:45:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+3",
+          "active": 4447,
+          "critical": 16,
+          "recovered": 9,
+          "1M_pop": "497",
+          "total": 4477
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 21
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T07:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+892",
+          "active": 4444,
+          "critical": 14,
+          "recovered": 9,
+          "1M_pop": "497",
+          "total": 4474
+        },
+        "deaths": {
+          "new": "+5",
+          "1M_pop": null,
+          "total": 21
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T06:30:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-25"
+    },
+    "errors": [],
+    "results": 12,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+277",
+          "active": 5521,
+          "critical": 28,
+          "recovered": 9,
+          "1M_pop": "617",
+          "total": 5560
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 30
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-25",
+        "time": "2020-03-25T14:00:07+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+233",
+          "active": 5477,
+          "critical": 26,
+          "recovered": 9,
+          "1M_pop": "612",
+          "total": 5516
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 30
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-25",
+        "time": "2020-03-25T13:30:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+216",
+          "active": 5460,
+          "critical": 26,
+          "recovered": 9,
+          "1M_pop": "611",
+          "total": 5499
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 30
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-25",
+        "time": "2020-03-25T12:45:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+211",
+          "active": 5455,
+          "critical": 26,
+          "recovered": 9,
+          "1M_pop": "610",
+          "total": 5494
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 30
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-25",
+        "time": "2020-03-25T11:00:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+202",
+          "active": 5446,
+          "critical": 26,
+          "recovered": 9,
+          "1M_pop": "609",
+          "total": 5485
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 30
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-25",
+        "time": "2020-03-25T10:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+197",
+          "active": 5441,
+          "critical": 26,
+          "recovered": 9,
+          "1M_pop": "608",
+          "total": 5480
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 30
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-25",
+        "time": "2020-03-25T09:45:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+165",
+          "active": 5409,
+          "critical": 26,
+          "recovered": 9,
+          "1M_pop": "605",
+          "total": 5448
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 30
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-25",
+        "time": "2020-03-25T09:30:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+144",
+          "active": 5388,
+          "critical": 26,
+          "recovered": 9,
+          "1M_pop": "603",
+          "total": 5427
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 30
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-25",
+        "time": "2020-03-25T08:45:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+111",
+          "active": 5355,
+          "critical": 26,
+          "recovered": 9,
+          "1M_pop": "599",
+          "total": 5394
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 30
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-25",
+        "time": "2020-03-25T08:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+85",
+          "active": 5329,
+          "critical": 26,
+          "recovered": 9,
+          "1M_pop": "596",
+          "total": 5368
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 30
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-25",
+        "time": "2020-03-25T08:00:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+32",
+          "active": 5276,
+          "critical": 26,
+          "recovered": 9,
+          "1M_pop": "590",
+          "total": 5315
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 30
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-25",
+        "time": "2020-03-25T07:45:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+809",
+          "active": 5246,
+          "critical": 22,
+          "recovered": 9,
+          "1M_pop": "587",
+          "total": 5283
+        },
+        "deaths": {
+          "new": "+7",
+          "1M_pop": null,
+          "total": 28
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-25",
+        "time": "2020-03-25T07:30:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-26"
+    },
+    "errors": [],
+    "results": 11,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+1310",
+          "active": 6737,
+          "critical": 96,
+          "recovered": 112,
+          "1M_pop": "766",
+          "total": 6898
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 49
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T23:00:14+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+1310",
+          "active": 6737,
+          "critical": 28,
+          "recovered": 112,
+          "1M_pop": "766",
+          "total": 6898
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 49
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T22:45:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+1259",
+          "active": 6686,
+          "critical": 28,
+          "recovered": 112,
+          "1M_pop": "760",
+          "total": 6847
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 49
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T22:30:07+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+1228",
+          "active": 6655,
+          "critical": 28,
+          "recovered": 112,
+          "1M_pop": "757",
+          "total": 6816
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 49
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T19:00:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+1115",
+          "active": 6542,
+          "critical": 28,
+          "recovered": 112,
+          "1M_pop": "744",
+          "total": 6703
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 49
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T18:45:10+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+810",
+          "active": 6237,
+          "critical": 28,
+          "recovered": 112,
+          "1M_pop": "710",
+          "total": 6398
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 49
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T17:15:09+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+413",
+          "active": 5847,
+          "critical": 28,
+          "recovered": 112,
+          "1M_pop": "666",
+          "total": 6001
+        },
+        "deaths": {
+          "new": "+11",
+          "1M_pop": null,
+          "total": 42
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T14:15:08+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+413",
+          "active": 5950,
+          "critical": 28,
+          "recovered": 9,
+          "1M_pop": "666",
+          "total": 6001
+        },
+        "deaths": {
+          "new": "+11",
+          "1M_pop": null,
+          "total": 42
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T11:00:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+300",
+          "active": 5845,
+          "critical": 28,
+          "recovered": 9,
+          "1M_pop": "654",
+          "total": 5888
+        },
+        "deaths": {
+          "new": "+3",
+          "1M_pop": null,
+          "total": 34
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T09:00:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+305",
+          "active": 5548,
+          "critical": 28,
+          "recovered": 9,
+          "1M_pop": "620",
+          "total": 5588
+        },
+        "deaths": {
+          "new": "+3",
+          "1M_pop": null,
+          "total": 31
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T07:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+305",
+          "active": 5549,
+          "critical": 28,
+          "recovered": 9,
+          "1M_pop": "620",
+          "total": 5588
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 30
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T03:15:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-27"
+    },
+    "errors": [],
+    "results": 15,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+748",
+          "active": 7374,
+          "critical": 128,
+          "recovered": 225,
+          "1M_pop": "850",
+          "total": 7657
+        },
+        "deaths": {
+          "new": "+9",
+          "1M_pop": null,
+          "total": 58
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-27",
+        "time": "2020-03-27T23:30:03+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+733",
+          "active": 7359,
+          "critical": 128,
+          "recovered": 225,
+          "1M_pop": "849",
+          "total": 7642
+        },
+        "deaths": {
+          "new": "+9",
+          "1M_pop": null,
+          "total": 58
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-27",
+        "time": "2020-03-27T19:15:03+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+701",
+          "active": 7327,
+          "critical": 128,
+          "recovered": 225,
+          "1M_pop": "845",
+          "total": 7610
+        },
+        "deaths": {
+          "new": "+9",
+          "1M_pop": null,
+          "total": 58
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-27",
+        "time": "2020-03-27T18:30:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+648",
+          "active": 7274,
+          "critical": 128,
+          "recovered": 225,
+          "1M_pop": "839",
+          "total": 7557
+        },
+        "deaths": {
+          "new": "+9",
+          "1M_pop": null,
+          "total": 58
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-27",
+        "time": "2020-03-27T17:15:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+591",
+          "active": 7217,
+          "critical": 128,
+          "recovered": 225,
+          "1M_pop": "833",
+          "total": 7500
+        },
+        "deaths": {
+          "new": "+9",
+          "1M_pop": null,
+          "total": 58
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-27",
+        "time": "2020-03-27T16:15:08+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+532",
+          "active": 7158,
+          "critical": 128,
+          "recovered": 225,
+          "1M_pop": "826",
+          "total": 7441
+        },
+        "deaths": {
+          "new": "+9",
+          "1M_pop": null,
+          "total": 58
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-27",
+        "time": "2020-03-27T15:30:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+484",
+          "active": 7110,
+          "critical": 128,
+          "recovered": 225,
+          "1M_pop": "821",
+          "total": 7393
+        },
+        "deaths": {
+          "new": "+9",
+          "1M_pop": null,
+          "total": 58
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-27",
+        "time": "2020-03-27T14:45:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+408",
+          "active": 7034,
+          "critical": 128,
+          "recovered": 225,
+          "1M_pop": "812",
+          "total": 7317
+        },
+        "deaths": {
+          "new": "+9",
+          "1M_pop": null,
+          "total": 58
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-27",
+        "time": "2020-03-27T13:00:19+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+360",
+          "active": 6986,
+          "critical": 96,
+          "recovered": 225,
+          "1M_pop": "807",
+          "total": 7269
+        },
+        "deaths": {
+          "new": "+9",
+          "1M_pop": null,
+          "total": 58
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-27",
+        "time": "2020-03-27T12:00:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+287",
+          "active": 6913,
+          "critical": 96,
+          "recovered": 225,
+          "1M_pop": "799",
+          "total": 7196
+        },
+        "deaths": {
+          "new": "+9",
+          "1M_pop": null,
+          "total": 58
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-27",
+        "time": "2020-03-27T11:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+220",
+          "active": 6846,
+          "critical": 96,
+          "recovered": 225,
+          "1M_pop": "792",
+          "total": 7129
+        },
+        "deaths": {
+          "new": "+9",
+          "1M_pop": null,
+          "total": 58
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-27",
+        "time": "2020-03-27T10:00:16+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+220",
+          "active": 6968,
+          "critical": 96,
+          "recovered": 112,
+          "1M_pop": "792",
+          "total": 7129
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 49
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-27",
+        "time": "2020-03-27T09:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+120",
+          "active": 6868,
+          "critical": 96,
+          "recovered": 112,
+          "1M_pop": "780",
+          "total": 7029
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 49
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-27",
+        "time": "2020-03-27T09:00:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+53",
+          "active": 6801,
+          "critical": 96,
+          "recovered": 112,
+          "1M_pop": "773",
+          "total": 6962
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 49
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-27",
+        "time": "2020-03-27T08:00:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+1321",
+          "active": 6748,
+          "critical": 96,
+          "recovered": 112,
+          "1M_pop": "767",
+          "total": 6909
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 49
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-27",
+        "time": "2020-03-27T07:15:06+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-28"
+    },
+    "errors": [],
+    "results": 7,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+491",
+          "active": 7895,
+          "critical": 128,
+          "recovered": 225,
+          "1M_pop": "909",
+          "total": 8188
+        },
+        "deaths": {
+          "new": "+10",
+          "1M_pop": null,
+          "total": 68
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-28",
+        "time": "2020-03-28T22:15:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+425",
+          "active": 7829,
+          "critical": 128,
+          "recovered": 225,
+          "1M_pop": "902",
+          "total": 8122
+        },
+        "deaths": {
+          "new": "+10",
+          "1M_pop": null,
+          "total": 68
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-28",
+        "time": "2020-03-28T18:15:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+333",
+          "active": 7737,
+          "critical": 128,
+          "recovered": 225,
+          "1M_pop": "892",
+          "total": 8030
+        },
+        "deaths": {
+          "new": "+10",
+          "1M_pop": null,
+          "total": 68
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-28",
+        "time": "2020-03-28T17:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+267",
+          "active": 7671,
+          "critical": 128,
+          "recovered": 225,
+          "1M_pop": "884",
+          "total": 7964
+        },
+        "deaths": {
+          "new": "+10",
+          "1M_pop": null,
+          "total": 68
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-28",
+        "time": "2020-03-28T14:00:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+15",
+          "active": 7419,
+          "critical": 128,
+          "recovered": 225,
+          "1M_pop": "856",
+          "total": 7712
+        },
+        "deaths": {
+          "new": "+10",
+          "1M_pop": null,
+          "total": 68
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-28",
+        "time": "2020-03-28T12:30:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+15",
+          "active": 7429,
+          "critical": 128,
+          "recovered": 225,
+          "1M_pop": "856",
+          "total": 7712
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 58
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-28",
+        "time": "2020-03-28T09:30:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+788",
+          "active": 7414,
+          "critical": 128,
+          "recovered": 225,
+          "1M_pop": "855",
+          "total": 7697
+        },
+        "deaths": {
+          "new": "+9",
+          "1M_pop": null,
+          "total": 58
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-28",
+        "time": "2020-03-28T08:00:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-29"
+    },
+    "errors": [],
+    "results": 15,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+503",
+          "active": 8209,
+          "critical": 187,
+          "recovered": 479,
+          "1M_pop": "974",
+          "total": 8774
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 86
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-29",
+        "time": "2020-03-29T22:45:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+472",
+          "active": 8178,
+          "critical": 187,
+          "recovered": 479,
+          "1M_pop": "971",
+          "total": 8743
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 86
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-29",
+        "time": "2020-03-29T21:00:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+440",
+          "active": 8146,
+          "critical": 187,
+          "recovered": 479,
+          "1M_pop": "967",
+          "total": 8711
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 86
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-29",
+        "time": "2020-03-29T19:15:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+401",
+          "active": 8107,
+          "critical": 187,
+          "recovered": 479,
+          "1M_pop": "963",
+          "total": 8672
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 86
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-29",
+        "time": "2020-03-29T17:30:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+377",
+          "active": 8083,
+          "critical": 187,
+          "recovered": 479,
+          "1M_pop": "960",
+          "total": 8648
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 86
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-29",
+        "time": "2020-03-29T16:30:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+265",
+          "active": 7971,
+          "critical": 187,
+          "recovered": 479,
+          "1M_pop": "948",
+          "total": 8536
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 86
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-29",
+        "time": "2020-03-29T15:00:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+215",
+          "active": 7921,
+          "critical": 187,
+          "recovered": 479,
+          "1M_pop": "942",
+          "total": 8486
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 86
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-29",
+        "time": "2020-03-29T13:00:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+179",
+          "active": 7885,
+          "critical": 187,
+          "recovered": 479,
+          "1M_pop": "938",
+          "total": 8450
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 86
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-29",
+        "time": "2020-03-29T12:00:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+140",
+          "active": 7846,
+          "critical": 187,
+          "recovered": 479,
+          "1M_pop": "934",
+          "total": 8411
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 86
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-29",
+        "time": "2020-03-29T11:00:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+124",
+          "active": 7830,
+          "critical": 187,
+          "recovered": 479,
+          "1M_pop": "932",
+          "total": 8395
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 86
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-29",
+        "time": "2020-03-29T10:00:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+124",
+          "active": 8084,
+          "critical": 187,
+          "recovered": 225,
+          "1M_pop": "932",
+          "total": 8395
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 86
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-29",
+        "time": "2020-03-29T09:45:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+124",
+          "active": 8102,
+          "critical": 135,
+          "recovered": 225,
+          "1M_pop": "932",
+          "total": 8395
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 68
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-29",
+        "time": "2020-03-29T09:30:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+75",
+          "active": 8053,
+          "critical": 135,
+          "recovered": 225,
+          "1M_pop": "927",
+          "total": 8346
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 68
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-29",
+        "time": "2020-03-29T09:15:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+20",
+          "active": 7998,
+          "critical": 135,
+          "recovered": 225,
+          "1M_pop": "921",
+          "total": 8291
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 68
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-29",
+        "time": "2020-03-29T08:15:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+574",
+          "active": 7978,
+          "critical": 135,
+          "recovered": 225,
+          "1M_pop": "918",
+          "total": 8271
+        },
+        "deaths": {
+          "new": "+10",
+          "1M_pop": null,
+          "total": 68
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-29",
+        "time": "2020-03-29T08:00:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-30"
+    },
+    "errors": [],
+    "results": 12,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+809",
+          "active": 8853,
+          "critical": 193,
+          "recovered": 636,
+          "1M_pop": "1066",
+          "total": 9597
+        },
+        "deaths": {
+          "new": "+22",
+          "1M_pop": null,
+          "total": 108
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-30",
+        "time": "2020-03-30T22:45:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+753",
+          "active": 8797,
+          "critical": 193,
+          "recovered": 636,
+          "1M_pop": "1059",
+          "total": 9541
+        },
+        "deaths": {
+          "new": "+22",
+          "1M_pop": null,
+          "total": 108
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-30",
+        "time": "2020-03-30T18:45:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+732",
+          "active": 8776,
+          "critical": 193,
+          "recovered": 636,
+          "1M_pop": "1057",
+          "total": 9520
+        },
+        "deaths": {
+          "new": "+22",
+          "1M_pop": null,
+          "total": 108
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-30",
+        "time": "2020-03-30T17:00:23+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+666",
+          "active": 8710,
+          "critical": 193,
+          "recovered": 636,
+          "1M_pop": "1050",
+          "total": 9454
+        },
+        "deaths": {
+          "new": "+22",
+          "1M_pop": null,
+          "total": 108
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-30",
+        "time": "2020-03-30T16:00:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+589",
+          "active": 8633,
+          "critical": 193,
+          "recovered": 636,
+          "1M_pop": "1041",
+          "total": 9377
+        },
+        "deaths": {
+          "new": "+22",
+          "1M_pop": null,
+          "total": 108
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-30",
+        "time": "2020-03-30T15:30:15+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+412",
+          "active": 8456,
+          "critical": 193,
+          "recovered": 636,
+          "1M_pop": "1021",
+          "total": 9200
+        },
+        "deaths": {
+          "new": "+22",
+          "1M_pop": null,
+          "total": 108
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-30",
+        "time": "2020-03-30T13:00:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+315",
+          "active": 8359,
+          "critical": 193,
+          "recovered": 636,
+          "1M_pop": "1011",
+          "total": 9103
+        },
+        "deaths": {
+          "new": "+22",
+          "1M_pop": null,
+          "total": 108
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-30",
+        "time": "2020-03-30T11:00:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+315",
+          "active": 8538,
+          "critical": 187,
+          "recovered": 479,
+          "1M_pop": "1011",
+          "total": 9103
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 86
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-30",
+        "time": "2020-03-30T10:30:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+170",
+          "active": 8393,
+          "critical": 187,
+          "recovered": 479,
+          "1M_pop": "995",
+          "total": 8958
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 86
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-30",
+        "time": "2020-03-30T10:00:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+79",
+          "active": 8302,
+          "critical": 187,
+          "recovered": 479,
+          "1M_pop": "985",
+          "total": 8867
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 86
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-30",
+        "time": "2020-03-30T08:00:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+25",
+          "active": 8248,
+          "critical": 187,
+          "recovered": 479,
+          "1M_pop": "979",
+          "total": 8813
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 86
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-30",
+        "time": "2020-03-30T07:15:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+517",
+          "active": 8223,
+          "critical": 187,
+          "recovered": 479,
+          "1M_pop": "976",
+          "total": 8788
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 86
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-30",
+        "time": "2020-03-30T06:45:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-03-31"
+    },
+    "errors": [],
+    "results": 16,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+504",
+          "active": 8899,
+          "critical": 198,
+          "recovered": 1095,
+          "1M_pop": "1124",
+          "total": 10122
+        },
+        "deaths": {
+          "new": "+20",
+          "1M_pop": null,
+          "total": 128
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-31",
+        "time": "2020-03-31T21:15:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+491",
+          "active": 8886,
+          "critical": 198,
+          "recovered": 1095,
+          "1M_pop": "1122",
+          "total": 10109
+        },
+        "deaths": {
+          "new": "+20",
+          "1M_pop": null,
+          "total": 128
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-31",
+        "time": "2020-03-31T18:00:06+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+470",
+          "active": 8865,
+          "critical": 198,
+          "recovered": 1095,
+          "1M_pop": "1120",
+          "total": 10088
+        },
+        "deaths": {
+          "new": "+20",
+          "1M_pop": null,
+          "total": 128
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-31",
+        "time": "2020-03-31T17:00:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+420",
+          "active": 8815,
+          "critical": 198,
+          "recovered": 1095,
+          "1M_pop": "1115",
+          "total": 10038
+        },
+        "deaths": {
+          "new": "+20",
+          "1M_pop": null,
+          "total": 128
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-31",
+        "time": "2020-03-31T16:02:35+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+401",
+          "active": 8796,
+          "critical": 198,
+          "recovered": 1095,
+          "1M_pop": "1112",
+          "total": 10019
+        },
+        "deaths": {
+          "new": "+20",
+          "1M_pop": null,
+          "total": 128
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-31",
+        "time": "2020-03-31T15:02:34+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+356",
+          "active": 8751,
+          "critical": 198,
+          "recovered": 1095,
+          "1M_pop": "1107",
+          "total": 9974
+        },
+        "deaths": {
+          "new": "+20",
+          "1M_pop": null,
+          "total": 128
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-31",
+        "time": "2020-03-31T13:47:35+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+302",
+          "active": 8697,
+          "critical": 198,
+          "recovered": 1095,
+          "1M_pop": "1101",
+          "total": 9920
+        },
+        "deaths": {
+          "new": "+20",
+          "1M_pop": null,
+          "total": 128
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-31",
+        "time": "2020-03-31T13:17:34+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+258",
+          "active": 8653,
+          "critical": 198,
+          "recovered": 1095,
+          "1M_pop": "1097",
+          "total": 9876
+        },
+        "deaths": {
+          "new": "+20",
+          "1M_pop": null,
+          "total": 128
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-31",
+        "time": "2020-03-31T12:02:34+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+233",
+          "active": 8628,
+          "critical": 198,
+          "recovered": 1095,
+          "1M_pop": "1094",
+          "total": 9851
+        },
+        "deaths": {
+          "new": "+20",
+          "1M_pop": null,
+          "total": 128
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-31",
+        "time": "2020-03-31T11:15:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+207",
+          "active": 8602,
+          "critical": 198,
+          "recovered": 1095,
+          "1M_pop": "1091",
+          "total": 9825
+        },
+        "deaths": {
+          "new": "+20",
+          "1M_pop": null,
+          "total": 128
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-31",
+        "time": "2020-03-31T10:00:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+154",
+          "active": 8549,
+          "critical": 198,
+          "recovered": 1095,
+          "1M_pop": "1085",
+          "total": 9772
+        },
+        "deaths": {
+          "new": "+20",
+          "1M_pop": null,
+          "total": 128
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-31",
+        "time": "2020-03-31T09:45:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+154",
+          "active": 9028,
+          "critical": 198,
+          "recovered": 636,
+          "1M_pop": "1085",
+          "total": 9772
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 108
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-31",
+        "time": "2020-03-31T08:45:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+154",
+          "active": 9028,
+          "critical": 193,
+          "recovered": 636,
+          "1M_pop": "1085",
+          "total": 9772
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 108
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-31",
+        "time": "2020-03-31T08:30:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+87",
+          "active": 8961,
+          "critical": 193,
+          "recovered": 636,
+          "1M_pop": "1078",
+          "total": 9705
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 108
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-31",
+        "time": "2020-03-31T08:00:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+16",
+          "active": 8890,
+          "critical": 193,
+          "recovered": 636,
+          "1M_pop": "1070",
+          "total": 9634
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 108
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-31",
+        "time": "2020-03-31T07:00:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+830",
+          "active": 8874,
+          "critical": 193,
+          "recovered": 636,
+          "1M_pop": "1068",
+          "total": 9618
+        },
+        "deaths": {
+          "new": "+22",
+          "1M_pop": null,
+          "total": 108
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-31",
+        "time": "2020-03-31T06:15:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Austria",
+      "day": "2020-04-01"
+    },
+    "errors": [],
+    "results": 15,
+    "response": [
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+488",
+          "active": 9086,
+          "critical": 215,
+          "recovered": 1436,
+          "1M_pop": "1184",
+          "total": 10668
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 146
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T21:15:03+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+483",
+          "active": 9081,
+          "critical": 215,
+          "recovered": 1436,
+          "1M_pop": "1184",
+          "total": 10663
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 146
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T19:45:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+405",
+          "active": 9003,
+          "critical": 215,
+          "recovered": 1436,
+          "1M_pop": "1175",
+          "total": 10585
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 146
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T18:00:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+373",
+          "active": 8971,
+          "critical": 215,
+          "recovered": 1436,
+          "1M_pop": "1172",
+          "total": 10553
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 146
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T16:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+321",
+          "active": 8919,
+          "critical": 215,
+          "recovered": 1436,
+          "1M_pop": "1166",
+          "total": 10501
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 146
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T15:00:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+302",
+          "active": 8900,
+          "critical": 215,
+          "recovered": 1436,
+          "1M_pop": "1164",
+          "total": 10482
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 146
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T14:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+264",
+          "active": 8862,
+          "critical": 215,
+          "recovered": 1436,
+          "1M_pop": "1160",
+          "total": 10444
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 146
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T13:15:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+238",
+          "active": 8836,
+          "critical": 215,
+          "recovered": 1436,
+          "1M_pop": "1157",
+          "total": 10418
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 146
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T12:00:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+238",
+          "active": 9177,
+          "critical": 215,
+          "recovered": 1095,
+          "1M_pop": "1157",
+          "total": 10418
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 146
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T11:15:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+207",
+          "active": 9146,
+          "critical": 215,
+          "recovered": 1095,
+          "1M_pop": "1153",
+          "total": 10387
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 146
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T11:00:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+186",
+          "active": 9125,
+          "critical": 215,
+          "recovered": 1095,
+          "1M_pop": "1151",
+          "total": 10366
+        },
+        "deaths": {
+          "new": "+18",
+          "1M_pop": null,
+          "total": 146
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T10:15:15+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+186",
+          "active": 9143,
+          "critical": 198,
+          "recovered": 1095,
+          "1M_pop": "1151",
+          "total": 10366
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 128
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T09:15:04+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+118",
+          "active": 9075,
+          "critical": 198,
+          "recovered": 1095,
+          "1M_pop": "1143",
+          "total": 10298
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 128
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T08:00:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+12",
+          "active": 8969,
+          "critical": 198,
+          "recovered": 1095,
+          "1M_pop": "1132",
+          "total": 10192
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 128
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T07:00:05+00:00"
+      },
+      {
+        "continent": "Europe",
+        "country": "Austria",
+        "population": null,
+        "cases": {
+          "new": "+562",
+          "active": 8957,
+          "critical": 198,
+          "recovered": 1095,
+          "1M_pop": "1130",
+          "total": 10180
+        },
+        "deaths": {
+          "new": "+20",
+          "1M_pop": null,
+          "total": 128
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T06:00:04+00:00"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1241 @@
+[
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-01"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+38",
+          "active": 455,
+          "critical": 17,
+          "recovered": 1325,
+          "1M_pop": "178",
+          "total": 1804
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 24
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 143079
+        },
+        "day": "2020-05-01",
+        "time": "2020-05-01T13:15:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-02"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+50",
+          "active": 464,
+          "critical": 17,
+          "recovered": 1365,
+          "1M_pop": "183",
+          "total": 1854
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 25
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 146630
+        },
+        "day": "2020-05-02",
+        "time": "2020-05-02T11:15:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-03"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+40",
+          "active": 458,
+          "critical": 17,
+          "recovered": 1411,
+          "1M_pop": "187",
+          "total": 1894
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 25
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 152597
+        },
+        "day": "2020-05-03",
+        "time": "2020-05-03T13:00:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-04"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+38",
+          "active": 466,
+          "critical": 17,
+          "recovered": 1441,
+          "1M_pop": "191",
+          "total": 1932
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 25
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 157932
+        },
+        "day": "2020-05-04",
+        "time": "2020-05-04T16:15:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-05"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+52",
+          "active": 478,
+          "critical": 18,
+          "recovered": 1480,
+          "1M_pop": "196",
+          "total": 1984
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 26
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 157932
+        },
+        "day": "2020-05-05",
+        "time": "2020-05-05T13:30:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-06"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+76",
+          "active": 526,
+          "critical": 18,
+          "recovered": 1508,
+          "1M_pop": "203",
+          "total": 2060
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 26
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 164481
+        },
+        "day": "2020-05-06",
+        "time": "2020-05-06T13:15:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-07"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+77",
+          "active": 625,
+          "critical": 18,
+          "recovered": 1551,
+          "1M_pop": "217",
+          "total": 2204
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 28
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 169790
+        },
+        "day": "2020-05-07",
+        "time": "2020-05-07T15:00:04+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+67",
+          "active": 563,
+          "critical": 18,
+          "recovered": 1536,
+          "1M_pop": "210",
+          "total": 2127
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 28
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 169790
+        },
+        "day": "2020-05-07",
+        "time": "2020-05-07T14:45:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-08"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+77",
+          "active": 625,
+          "critical": 18,
+          "recovered": 1551,
+          "1M_pop": "217",
+          "total": 2204
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 28
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 175910
+        },
+        "day": "2020-05-08",
+        "time": "2020-05-08T14:30:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-09"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+143",
+          "active": 771,
+          "critical": 18,
+          "recovered": 1620,
+          "1M_pop": "239",
+          "total": 2422
+        },
+        "deaths": {
+          "new": "+3",
+          "1M_pop": null,
+          "total": 31
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 188950
+        },
+        "day": "2020-05-09",
+        "time": "2020-05-09T14:30:04+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+75",
+          "active": 675,
+          "critical": 18,
+          "recovered": 1576,
+          "1M_pop": "225",
+          "total": 2279
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 28
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 181530
+        },
+        "day": "2020-05-09",
+        "time": "2020-05-09T13:45:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-10"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+143",
+          "active": 771,
+          "critical": 29,
+          "recovered": 1620,
+          "1M_pop": "239",
+          "total": 2422
+        },
+        "deaths": {
+          "new": "+3",
+          "1M_pop": null,
+          "total": 31
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 188950
+        },
+        "day": "2020-05-10",
+        "time": "2020-05-10T16:45:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-11"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+97",
+          "active": 837,
+          "critical": 33,
+          "recovered": 1650,
+          "1M_pop": "248",
+          "total": 2519
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 32
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 193411
+        },
+        "day": "2020-05-11",
+        "time": "2020-05-11T16:45:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-12"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 877,
+          "critical": 28,
+          "recovered": 1680,
+          "1M_pop": "255",
+          "total": 2589
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 32
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 202282
+        },
+        "day": "2020-05-12",
+        "time": "2020-05-12T17:30:04+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+70",
+          "active": 877,
+          "critical": 33,
+          "recovered": 1680,
+          "1M_pop": "255",
+          "total": 2589
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 32
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 193411
+        },
+        "day": "2020-05-12",
+        "time": "2020-05-12T16:15:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-13"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 925,
+          "critical": 28,
+          "recovered": 1735,
+          "1M_pop": "266",
+          "total": 2693
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 33
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 202282
+        },
+        "day": "2020-05-13",
+        "time": "2020-05-13T13:00:04+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+104",
+          "active": 980,
+          "critical": 28,
+          "recovered": 1680,
+          "1M_pop": "266",
+          "total": 2693
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 33
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 202282
+        },
+        "day": "2020-05-13",
+        "time": "2020-05-13T07:30:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-14"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+65",
+          "active": 934,
+          "critical": 30,
+          "recovered": 1789,
+          "1M_pop": "272",
+          "total": 2758
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 35
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 208546
+        },
+        "day": "2020-05-14",
+        "time": "2020-05-14T14:00:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-15"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+121",
+          "active": 1011,
+          "critical": 29,
+          "recovered": 1833,
+          "1M_pop": "284",
+          "total": 2879
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 35
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 214291
+        },
+        "day": "2020-05-15",
+        "time": "2020-05-15T02:15:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-16"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "10127290",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+101",
+          "active": 1058,
+          "critical": 37,
+          "recovered": 1886,
+          "1M_pop": "294",
+          "total": 2980
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 36
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 220363
+        },
+        "day": "2020-05-16",
+        "time": "2020-05-16T12:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-17"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+158",
+          "active": 1158,
+          "critical": 37,
+          "recovered": 1944,
+          "1M_pop": "310",
+          "total": 3138
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 36
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 226005
+        },
+        "day": "2020-05-17",
+        "time": "2020-05-17T14:30:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-18"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+136",
+          "active": 1220,
+          "critical": 37,
+          "recovered": 2015,
+          "1M_pop": "323",
+          "total": 3274
+        },
+        "deaths": {
+          "new": "+3",
+          "1M_pop": null,
+          "total": 39
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 232077
+        },
+        "day": "2020-05-18",
+        "time": "2020-05-18T13:45:06+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-19"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+113",
+          "active": 1292,
+          "critical": 37,
+          "recovered": 2055,
+          "1M_pop": "334",
+          "total": 3387
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 40
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 235910
+        },
+        "day": "2020-05-19",
+        "time": "2020-05-19T14:30:11+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-20"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+131",
+          "active": 1279,
+          "critical": 37,
+          "recovered": 2198,
+          "1M_pop": "347",
+          "total": 3518
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 41
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 240220
+        },
+        "day": "2020-05-20",
+        "time": "2020-05-20T15:15:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-21"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+113",
+          "active": 1335,
+          "critical": 46,
+          "recovered": 2253,
+          "1M_pop": "358",
+          "total": 3631
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 43
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 245609
+        },
+        "day": "2020-05-21",
+        "time": "2020-05-21T13:15:06+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-22"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+118",
+          "active": 1365,
+          "critical": 42,
+          "recovered": 2340,
+          "1M_pop": "370",
+          "total": 3749
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 44
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 252496
+        },
+        "day": "2020-05-22",
+        "time": "2020-05-22T13:15:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-23"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+106",
+          "active": 1410,
+          "critical": 42,
+          "recovered": 2399,
+          "1M_pop": "381",
+          "total": 3855
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 46
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 252496
+        },
+        "day": "2020-05-23",
+        "time": "2020-05-23T12:00:03+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-24"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+127",
+          "active": 1427,
+          "critical": 42,
+          "recovered": 2506,
+          "1M_pop": "393",
+          "total": 3982
+        },
+        "deaths": {
+          "new": "+3",
+          "1M_pop": null,
+          "total": 49
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 265067
+        },
+        "day": "2020-05-24",
+        "time": "2020-05-24T12:15:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-25"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+140",
+          "active": 1466,
+          "critical": 42,
+          "recovered": 2607,
+          "1M_pop": "407",
+          "total": 4122
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 49
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 270739
+        },
+        "day": "2020-05-25",
+        "time": "2020-05-25T12:00:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-26"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+149",
+          "active": 1479,
+          "critical": 42,
+          "recovered": 2741,
+          "1M_pop": "422",
+          "total": 4271
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 51
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 273411
+        },
+        "day": "2020-05-26",
+        "time": "2020-05-26T15:45:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-27"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+132",
+          "active": 1532,
+          "critical": 42,
+          "recovered": 2819,
+          "1M_pop": "435",
+          "total": 4403
+        },
+        "deaths": {
+          "new": "+1",
+          "1M_pop": null,
+          "total": 52
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 273411
+        },
+        "day": "2020-05-27",
+        "time": "2020-05-27T14:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-28"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+165",
+          "active": 1617,
+          "critical": 42,
+          "recovered": 2897,
+          "1M_pop": "451",
+          "total": 4568
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 54
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 280663
+        },
+        "day": "2020-05-28",
+        "time": "2020-05-28T15:15:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-29"
+    },
+    "errors": [],
+    "results": 3,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+230",
+          "active": 1806,
+          "critical": 42,
+          "recovered": 3125,
+          "1M_pop": "492",
+          "total": 4989
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 58
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 284669
+        },
+        "day": "2020-05-29",
+        "time": "2020-05-29T17:45:07+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 1681,
+          "critical": 42,
+          "recovered": 3022,
+          "1M_pop": "470",
+          "total": 4759
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 56
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 284669
+        },
+        "day": "2020-05-29",
+        "time": "2020-05-29T14:00:06+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": "+191",
+          "active": 1681,
+          "critical": 42,
+          "recovered": 3022,
+          "1M_pop": "470",
+          "total": 4759
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": null,
+          "total": 56
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 284669
+        },
+        "day": "2020-05-29",
+        "time": "2020-05-29T00:15:06+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-30"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-05-31"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 1858,
+          "critical": 42,
+          "recovered": 3327,
+          "1M_pop": "518",
+          "total": 5246
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": 61
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": 294264
+        },
+        "day": "2020-05-31",
+        "time": "2020-05-31T13:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Azerbaijan",
+      "day": "2020-06-01"
+    },
+    "errors": [],
+    "results": 1,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Azerbaijan",
+        "population": 10131281,
+        "cases": {
+          "new": "+248",
+          "active": 2003,
+          "critical": 42,
+          "recovered": 3428,
+          "1M_pop": "542",
+          "total": 5494
+        },
+        "deaths": {
+          "new": "+2",
+          "1M_pop": "6",
+          "total": 63
+        },
+        "tests": {
+          "1M_pop": "29045",
+          "total": 294264
+        },
+        "day": "2020-06-01",
+        "time": "2020-06-01T14:45:05+00:00"
+      }
+    ]
+  }
+]

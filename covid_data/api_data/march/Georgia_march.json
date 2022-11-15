@@ -1,1 +1,1053 @@
-[{"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}, {"message": "You have exceeded the rate limit per minute for your plan, BASIC, by the API provider"}]
+[
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-01"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-02"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-03"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-04"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-05"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-06"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-07"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-08"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-09"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-10"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-11"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-12"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-13"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-14"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-15"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-16"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-17"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-18"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-19"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-20"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-21"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-22"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 48,
+          "critical": 1,
+          "recovered": 1,
+          "1M_pop": "12",
+          "total": 49
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-22",
+        "time": "2020-03-22T06:15:05+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": "+5",
+          "active": 48,
+          "critical": 1,
+          "recovered": 1,
+          "1M_pop": "12",
+          "total": 49
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-22",
+        "time": "2020-03-22T03:15:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-23"
+    },
+    "errors": [],
+    "results": 3,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 46,
+          "critical": 1,
+          "recovered": 8,
+          "1M_pop": "14",
+          "total": 54
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T15:15:06+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 51,
+          "critical": 1,
+          "recovered": 3,
+          "1M_pop": "14",
+          "total": 54
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T09:30:07+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": "+5",
+          "active": 53,
+          "critical": 1,
+          "recovered": 1,
+          "1M_pop": "14",
+          "total": 54
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-23",
+        "time": "2020-03-23T07:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-24"
+    },
+    "errors": [],
+    "results": 3,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": "+6",
+          "active": 58,
+          "critical": 1,
+          "recovered": 9,
+          "1M_pop": "17",
+          "total": 67
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T15:49:46+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": "+5",
+          "active": 57,
+          "critical": 1,
+          "recovered": 9,
+          "1M_pop": "17",
+          "total": 66
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T09:00:06+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": "+7",
+          "active": 53,
+          "critical": 1,
+          "recovered": 8,
+          "1M_pop": "15",
+          "total": 61
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-24",
+        "time": "2020-03-24T06:30:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-25"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": "+3",
+          "active": 63,
+          "critical": 1,
+          "recovered": 10,
+          "1M_pop": "18",
+          "total": 73
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-25",
+        "time": "2020-03-25T18:30:06+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": "+9",
+          "active": 61,
+          "critical": 1,
+          "recovered": 9,
+          "1M_pop": "18",
+          "total": 70
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-25",
+        "time": "2020-03-25T07:15:06+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-26"
+    },
+    "errors": [],
+    "results": 3,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": "+4",
+          "active": 69,
+          "critical": 1,
+          "recovered": 10,
+          "1M_pop": "20",
+          "total": 79
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T19:15:05+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": "+2",
+          "active": 67,
+          "critical": 1,
+          "recovered": 10,
+          "1M_pop": "19",
+          "total": 77
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T12:30:06+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": "+5",
+          "active": 65,
+          "critical": 1,
+          "recovered": 10,
+          "1M_pop": "19",
+          "total": 75
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-26",
+        "time": "2020-03-26T07:00:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-27"
+    },
+    "errors": [],
+    "results": 3,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": "+2",
+          "active": 68,
+          "critical": 1,
+          "recovered": 13,
+          "1M_pop": "20",
+          "total": 81
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-27",
+        "time": "2020-03-27T17:51:21+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 66,
+          "critical": 1,
+          "recovered": 13,
+          "1M_pop": "20",
+          "total": 79
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-27",
+        "time": "2020-03-27T06:15:05+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": "+4",
+          "active": 68,
+          "critical": 1,
+          "recovered": 11,
+          "1M_pop": "20",
+          "total": 79
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-27",
+        "time": "2020-03-27T06:00:06+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-28"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": "+2",
+          "active": 71,
+          "critical": 1,
+          "recovered": 14,
+          "1M_pop": "21",
+          "total": 85
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-28",
+        "time": "2020-03-28T16:15:04+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": "+4",
+          "active": 69,
+          "critical": 1,
+          "recovered": 14,
+          "1M_pop": "21",
+          "total": 83
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-28",
+        "time": "2020-03-28T07:00:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-29"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": null,
+          "active": 72,
+          "critical": 1,
+          "recovered": 18,
+          "1M_pop": "23",
+          "total": 90
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-29",
+        "time": "2020-03-29T15:30:05+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": "+7",
+          "active": 76,
+          "critical": 1,
+          "recovered": 14,
+          "1M_pop": "23",
+          "total": 90
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-29",
+        "time": "2020-03-29T07:30:04+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-30"
+    },
+    "errors": [],
+    "results": 5,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": "+9",
+          "active": 82,
+          "critical": 6,
+          "recovered": 18,
+          "1M_pop": "25",
+          "total": 100
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-30",
+        "time": "2020-03-30T18:00:04+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": "+7",
+          "active": 80,
+          "critical": 6,
+          "recovered": 18,
+          "1M_pop": "25",
+          "total": 98
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-30",
+        "time": "2020-03-30T13:30:05+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": "+7",
+          "active": 80,
+          "critical": 1,
+          "recovered": 18,
+          "1M_pop": "25",
+          "total": 98
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-30",
+        "time": "2020-03-30T13:00:04+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": "+6",
+          "active": 79,
+          "critical": 1,
+          "recovered": 18,
+          "1M_pop": "24",
+          "total": 97
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-30",
+        "time": "2020-03-30T07:15:04+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": "+1",
+          "active": 73,
+          "critical": 1,
+          "recovered": 18,
+          "1M_pop": "23",
+          "total": 91
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-30",
+        "time": "2020-03-30T06:30:06+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-03-31"
+    },
+    "errors": [],
+    "results": 2,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": "+5",
+          "active": 87,
+          "critical": 6,
+          "recovered": 21,
+          "1M_pop": "27",
+          "total": 108
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-31",
+        "time": "2020-03-31T08:45:05+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": "+12",
+          "active": 83,
+          "critical": 6,
+          "recovered": 20,
+          "1M_pop": "26",
+          "total": 103
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-03-31",
+        "time": "2020-03-31T06:45:05+00:00"
+      }
+    ]
+  },
+  {
+    "get": "history",
+    "parameters": {
+      "country": "Georgia",
+      "day": "2020-04-01"
+    },
+    "errors": [],
+    "results": 3,
+    "response": [
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": "+5",
+          "active": 92,
+          "critical": 6,
+          "recovered": 23,
+          "1M_pop": "29",
+          "total": 115
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T15:30:04+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": "+5",
+          "active": 93,
+          "critical": 6,
+          "recovered": 22,
+          "1M_pop": "29",
+          "total": 115
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T09:30:05+00:00"
+      },
+      {
+        "continent": "Asia",
+        "country": "Georgia",
+        "population": null,
+        "cases": {
+          "new": "+7",
+          "active": 89,
+          "critical": 6,
+          "recovered": 21,
+          "1M_pop": "28",
+          "total": 110
+        },
+        "deaths": {
+          "new": null,
+          "1M_pop": null,
+          "total": null
+        },
+        "tests": {
+          "1M_pop": null,
+          "total": null
+        },
+        "day": "2020-04-01",
+        "time": "2020-04-01T06:45:04+00:00"
+      }
+    ]
+  }
+]
