@@ -22,3 +22,7 @@
 ```
   conda env export > bigdata_lol_env.yml
 ```
+
+# File Explanation
+The main.ipynb is for the story Telling and includes only important parts related to that
+The tasks.ipynb includes other tasks which did not help us in the Story Telling, but were done nonetheless. 
